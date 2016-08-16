@@ -1,0 +1,550 @@
+Patient,DOS,Location,Counselor,ICD10,Indication,Progeny,Result,Gene,Mutation,Needs,,Cost
+"Biggerstaff, Marilyn",4/8/14,SJE,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Beams, Deanna",6/5/14,WCEC,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Roution, Anna",6/25/14,Flaget,PB,c50.919,breast,,positive,BRCA1,del exon 17,BRCA,,2245.77
+"Brakett, Marjorie",7/9/14,WCEC,ES,c50.919,breast,,positive,CHEK2,c.591delA,CHEK2,,1056.99
+"Lindsay, Nancy",7/9/14,SJE,ES,c50.919,breast,,N/A,N/A,N/A,,,
+"Rodarte, Samantha",7/9/14,SJE,ES,c50.919,breast,,N/A,N/A,N/A,,,
+"Bivens, Jewell",7/9/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Prather, Betty",7/9/14,SJE,PB,z80.3,fhx breast,,N/A,N/A,N/A,,,
+"Anderson, Kathy",7/17/14,WCEC,PB,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Brown, Wylene",7/22/14,WCEC,LA,c50.919,breast,,Negative,N/A,N/A,,,
+"Neely, Dorothy",7/23/14,SJE,ES,z80.3,fhx breast,,N/A,N/A,N/A,,,
+"Moore, Tonia",7/23/14,SJE,ES,c18.9,colon,,Negative,N/A,N/A,,,
+"Boone, Rose",7/23/14,Flaget,LA,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Bowers, Katherine",7/23/14,SJE,PB,c50.919,breast,,N/A,N/A,N/A,,,
+"Cantrell, Farley",7/23/14,SJE,PB,c20,colon,,Negative,N/A,N/A,,,
+"Johnson, Paula",7/25/14,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Vargas, Julie",7/29/14,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Terrell, Patricia",8/19/14,CBS,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Gibbons, Deborah",8/27/14,SJE,ES,c50.919,breast,,N/A,N/A,N/A,,,
+"Cole, Curtis",8/27/14,SJE,ES,c25.9,pancreas,,Negative,N/A,N/A,,,
+"Reasor, Rebekah",8/27/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"McKinney, Patricia",8/27/14,SJE,ES,c54.1,uterine,,VUS,PMS2,c.2350G>A,,,
+"Hensley, Gwen",8/27/14,SJE,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Brown, Cindy",9/10/14,SJE,ES,c50.919,breast,,VUS,MSH6,c.3283C>T,,,
+"Tabler, Charles",9/16/14,CBS,LA,c18.9,colon,,positive,MLH1,EX1_3'UTRdel,Lynch,,3771.44
+"Bloyd, Brandy",9/18/14,WCEC,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Nevels, Georgia",9/24/14,SJE,ES,z80.3,fhx breast,,positive,CHEK2,c.591delA,CHEK2,,1056.99
+"Montgomery, Lisa",9/24/14,SJE,ES,z80.3,fhx breast,,N/A,N/A,N/A,,,
+"Bowman, Lisa",9/24/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Hunt, Kimberly",9/24/14,SJE,ES,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Wilkerson, Barbara",10/7/14,CBS,LA,c50.919,breast,,N/A,N/A,N/A,,,
+"Wells, Shalara",10/8/14,SJE,ES,z80.0,fhx GI,,N/A,N/A,N/A,,,
+"Carpenter, Teresa",10/8/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Sarber, Larissa",10/8/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Johnson, Tina",10/8/14,SJE,ES,c64.9,kidney,,VUS/VUS,MSH2/TSC2,c.1706A>G/c.5383C>T,,,
+"Krise, Marlene",10/21/14,CBS,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Simpson, Robin",10/22/14,SJE,ES,c50.919,breast,,N/A,N/A,N/A,,,
+"Namikoshi, Miwa",10/22/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Frantz, Stephanie",10/23/14,Flaget,PB,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Roberts, Tiffany",10/30/14,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Sutherland, Shenine",11/4/14,CBS,LA,c18.9,colon,,N/A,N/A,N/A,,,
+"Alderman, Mary",11/12/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Benton, Julie",11/12/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Mowery, Anita",11/12/14,SJE,ES,c56.9,ovary,,VUS,PMS2,p.V717M,,,
+"Collar, Jane",11/19/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Thompson, Sheryl",12/1/14,WCEC,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Messmer, Kimberly",12/3/14,CBS,LA,c50.919,breast,,VUS,BARD1,c.1977A>G,,,
+"Metcalf, Cynthia",12/9/14,Flaget,PB,c50.919,breast,,VUS,BRIP1,c.3096T>G,,,
+"Davis, Alice",12/10/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Miller, Carolyn",12/10/14,SJE,ES,c50.919,breast,,VUS,BRCA2,c.2206G>A,,,
+"Nuckles, Mary",12/10/14,WCEC,PB,z80.3,fhx breast,,N/A,N/A,N/A,,,
+"Craig, Sandra",12/16/14,CBS,PB,c56.9,ovary,,positive,MSH6,c.2906_2907delAT,Lynch,,3771.44
+"Craig, Brian",12/16/14,CBS,PB,z80.0,fhx GI,,Negative,N/A,N/A,,,
+"Hill, Barbara",12/16/14,CBS,PB,c50.919,breast,,VUS,ATM,c.1229T>C,,,
+"Carnes, Donna",12/17/14,SJE,ES,z80.0,fhx GI,,positive/VUS,MSH2/MSH2,del exons 1-6/c.2006-4G>A,Lynch,,3771.44
+"McQuinn, Sandra",12/17/14,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Boyer, Jennifer",1/5/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Starr, Kathy",1/6/15,CBS,LA,c50.919,breast,,Negative,N/A,N/A,,,
+"Lint, Amy",1/7/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Glass, Colleen",1/7/15,CBS,PB,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Gourley, Wakendra",1/13/15,WCEC,ES,c54.1,uterine,,Negative,N/A,N/A,,,
+"Ford, Charity",1/14/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Robinson, Melissa",1/14/15,WCEC,ES,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Drake, Kimberly",1/16/15,WCEC,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Hollis, Betty",1/20/15,CBS,PB,c56.9,ovary,,Negative,N/A,N/A,,,
+"Flynn, Susan",1/22/15,WCEC,ES,k63.5,polyps,,Negative,N/A,N/A,,,
+"Newton, Ann",1/23/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Beall, Kathy",1/28/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Gwinn, Anna",2/3/15,WCEC,LA,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Cornell, Connie",2/4/15,Flaget,PB,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Williams, Carolyn",2/11/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Persley, Irene",2/13/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Stepenson, Melody",2/25/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Raleigh, Rhonda",2/26/15,WCEC,PB,c18.9,colon,,VUS,MLH1,c.1321G>A,,,
+"Ray, Charlotte",3/11/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Goodman, Donna",3/11/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Sutherland, Jean",3/11/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"York, Denise",3/11/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Smith, Katina",3/11/15,WCEC,ES,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Lusco, Barbara",3/11/15,WCEC,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Hatton, Mason",3/11/15,SJE,ES,c18.9,colon,,N/A,N/A,N/A,,,
+"Pascoe, Lori",3/12/15,WCEC,ES,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Higbie, Jennifer",3/17/15,WCEC,ES,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Pierce, Glenda",3/17/15,WCEC,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Strong, Tammie",3/25/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"O'Connell, Rebekah",4/7/15,CBS,LA,c18.9,colon,,VLP/VUS,PTEN/TP53,c.1061C>A/c.847C>T,PTEN,,3160.44
+"Tharpe, Clenteria",4/8/15,CBS,LA,c50.919,breast,,VUS/VUS,NBN/PTEN,c.786C>A/c.-1060C>G,,,
+"Engle, Diana",4/8/15,SJE,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Stone, Nola",4/21/15,CBS,LA,c50.919,breast,,VUS,RAD51D,c.394G>A,,,
+"Oakley, Leanne",4/22/15,SJE,ES,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Srinivasan, Vijaya",4/23/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Simms, Elizabeth",5/5/15,CBS,LA,c50.919,breast,,N/A,N/A,N/A,,,
+"Jackson, Mahalia",5/6/15,Flaget,PB,c50.919,breast,,positive,PALB2,c.3113G>A,PALB2,,1550.49
+"Crady, Lisa",5/6/15,Flaget,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Brewer, Julia",5/13/15,SJE,ES,c50.919,breast,,Positive,PALB2,c.3244_3245del,PALB2,,1550.49
+"Brewer, Julia",5/13/15,SJE,ES,c50.919,breast,,positive/VUS,PALB2/CDH1,c.3244_3245del/c.88C>A,PALB2,,1550.49
+"Johnson, Donna",5/13/15,SJE,ES,c50.919,breast,,N/A,N/A,N/A,,,
+"Lindsey, Regina",5/13/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"McIntosh, Mildred",5/13/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Gould, Donna",5/13/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Curtis, Cynthia",5/15/15,SJE,MEO,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Sargent, Wesley",5/20/15,SJE,JKP,c50.919,breast,,VUS,PTEN,c.-1171C>T,MRI,,778.27
+"Madden, Kevin",5/20/15,SJE,JKP,c18.9,colon,,Negative,N/A,N/A,None,,0
+"Reynolds, Dolores",5/20/15,SJE,JKP,c50.919,breast,,Negative,N/A,N/A,None,,0
+"Lawson, John",5/27/15,SJE,PB,c20,colon,,N/A,N/A,N/A,,,
+"Mitchell, Stacy",6/2/15,CBS,PB,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Torres Palomo, Gilda",6/2/15,WCEC,PB,c50.919,breast,,Negative,N/A,N/A,,,
+"Mitchell, Stacy",6/2/15,CBS,PB,c50.919,breast,,VUS,PTEN,c.-930G>A,,,
+"West, Cindy",6/3/15,SJH,ES,c56.9,ovary,,Negative,N/A,N/A,,,
+"McVey, Donna",6/3/15,SJE,JKP,c50.919,breast,,N/A,N/A,N/A,MRI,,778.27
+"Nevitt, Marion",6/3/15,Flaget,PB,50.921,breast,,Negative,N/A,N/A,,,
+"Ellis, Lisa",6/4/15,WCEC,PB,z80.41,fhx ovary,,VUS,TP53,c.214C>T,,,
+"Brown, Stephanie",6/5/15,SJE,MEO,c50.919,breast,,N/A,N/A,N/A,MRI,,778.27
+"Hackworth, Emma",6/5/15,SJE,MEO,c1639,gastric,,Negative,N/A,N/A,None,,0
+"Davis, Louise",6/6/15,MCNE,MEO,c50.919,breast,,N/A,N/A,N/A,cscope,,350
+"Burton, Candis",6/6/15,SJE,MEO,z80.0,fhx GI,,N/A,N/A,N/A,MRI,,778.27
+"Hart, CarolE",6/11/15,WCEC,ES,z80.3,fhx breast,,Negative,N/A,N/A,,,
+"Onan, Lori",6/12/15,SJE,MEO,z80.3,fhx breast,,N/A,N/A,N/A,MRI,,778.27
+"Lynch, Nancy",6/12/15,SJE,MEO,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Tankersley, Angela",6/15/15,SJE,MEO,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Szczapinski, Malvia",6/16/15,MCE,JKP,c50.919,breast,,VUS,CHEK2,c.751A>T,None,,0
+"Kaitanowski, Kelsey",6/23/15,MCE,JKP,c50.919,breast,,Positive,BRCA2,c.5722_5723delCT,BRCA,,2245.77
+"Young, Linda",7/1/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Coyle, Lisa",7/1/15,SJE,ES,c18.9,colon,,VUS,MSH6,c.1474A>G,,,
+"Homesley, Jocelyn",7/1/15,Flaget,MEO,k63.5,polyps,,Positive,APC,3927del5,FAP,,3437.53
+"Eversole, Chady",7/7/15,MCE,JKP,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Stubbs, Casey",7/7/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Yates, Tyler",7/7/15,MCE,JKP,z80.41,fhx ovary,Y,VUS/VUS,ATM/RAD50,c5821G>C/c.1663A>G,None,,0
+"Jarboe, Nora",7/7/15,CBS,PB,c50.919,breast,,N/A,N/A,N/A,,,
+"Newcomb, Oliver",7/7/15,CBS,PB,c25.9,pancreas,,Negative,N/A,N/A,,,
+"Roberts, Kimberly",7/8/15,SJE,ES,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Hacker, Tressa",7/8/15,SJE,ES,z80.3,fhx breast,,Negative,N/A,N/A,None,,0
+"Hacker, Tressa",7/8/15,WCEC,ES,c50.919,breast,,Negative,N/A,N/A,,,
+"Wallace, Myrtie",7/8/15,SJE,ES,c50.919,breast,,VUS,MSH2,c.2576_2584delAATCGCAAG,,,
+"Newcomb, Oliver",7/9/15,CBS,PB,c25.9,pancreas,,Negative,N/A,N/A,None,,0
+"Hurt, Merri",7/10/15,MCNE,MEO,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Binkley, Lisa",7/10/15,MCNE,MEO,z80.0,fhx GI,Y,Negative,N/A,N/A,None,,0
+"Clark, Wanda",7/21/15,CBS,MEO,c50.919,breast,,N/A,N/A,N/A,MRI,,778.27
+"Adams, Mary",7/21/15,CBS,MEO,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Baker, Catherine",7/21/15,CBS,MEO,c56.9,ovary,Y,Negative,N/A,N/A,None,,0
+"Webb, Grace",7/22/15,SJE,JKP,c50.919,breast,,VUS,NBN,c.1405G>T,MRI,,778.27
+"Hall, Kristen",7/23/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,None,,0
+"Minton, Lisa",7/28/15,MCE,JKP,c50.919,breast,,Negative,N/A,N/A,None,,0
+"Arnold, Lyvonia",7/28/15,MCE,JKP,z80.41,fhx ovary,Y,Negative,N/A,N/A,None,,0
+"Seale, Christina",7/29/15,SJE,MEO,c50.919,breast,,VUS,CHEK2,ex2_14dup,MRI,,778.27
+"Miller, Mike",7/29/15,SJE,MEO,c18.9,colon,,N/A,N/A,N/A,None,,0
+"Mobley, Raymond",7/29/15,SJE,MEO,c69.9,ocular melanoma,,N/A,N/A,N/A,None,,0
+"Witt, Wilma",7/29/15,SJE,MEO,c50.919,breast,,Negative,N/A,N/A,None,,0
+"Schultz, Jami",7/30/15,MCNE,MEO,z80.3,fhx breast,,Negative,N/A,N/A,None,,0
+"Skoien, Sherri",8/5/15,SJH,JKP,c50.919,breast,,Negative,N/A,N/A,None,,0
+"Hill Whitson, Heather",8/5/15,CBS,MEO,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Harris, Elizabeth",8/13/15,SJE,MEO,c50.919,breast,,N/A,N/A,N/A,MRI,,778.27
+"Nakatis, Svetlana",8/27/15,MCE,JKP,z80.3,fhx breast,,VUS,ATM,c.3014A>G,None,,0
+"Bloomer, Kimberly",9/1/15,CBS,JKP,c18.9,colon,,Negative,N/A,N/A,Lynch,,3771.44
+"Moore, Diane",9/3/15,MCE,JKP,c50.919,breast,,Negative,N/A,N/A,None,,0
+"Miller, Michael",9/5/15,CBS,JKP,c64.9,kidney,,Negative,N/A,N/A,None,,0
+"Dawson, Joyce",9/9/15,SJE,JKP,c50.919,breast,,Negative,N/A,N/A,None,,0
+"Whitaker, Nicholas",9/10/15,MCE,JKP,c18.9,colon,,Negative,N/A,N/A,None,,0
+"Gabbard, Sherry",9/16/15,SJE,JKP,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Haney, Theda",9/16/15,SJE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Florence, Robin",9/23/15,SJE,JKP,z80.3,fhx breast,,Positive,MUTYH,c.1187G>A,MUTYH,,350
+"Patel, Manjula",9/30/15,SJE,EAR,c50.919,breast,,N/A,N/A,N/A,MRI,,778.27
+"Ackley, Julie",10/2/15,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Lewis, Verna",10/6/15,SJE,EAR,c50.919,breast,,N/A,N/A,N/A,None,,0
+"Benton, Rhonda",10/6/15,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Gentry, Kristina",10/6/15,CBS,JKP,z80.0,fhx GI,,Positive,MSH2,del exons 1-6,Lynch,,3771.44
+"Bisig, Marla",10/6/15,CBS,JKP,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Zwanzig, Betty",10/6/15,CBS,JKP,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Bridges, Lemmie",10/7/15,SJE,EAR,k63.5,polyps,,Negative,N/A,N/A,cscope,,350
+"Barrados, Christina",10/7/15,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Garabrandt, Lendsey",10/7/15,SJH,EAR,z80.41,fhx ovary,,N/A,N/A,N/A,None,,0
+"Miller, Patricia",10/7/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,None,,0
+"Miller, Jason",10/8/15,SJE,EAR,z80.0,fhx GI,,Negative,N/A,N/A,None,,0
+"Miller, Kimberly",10/8/15,SJE,EAR,z80.0,fhx GI,,Negative,N/A,N/A,None,,0
+"Agramonte-Utrera, Erica",10/8/15,SJE,EAR,c50.919,breast,Y,VUS,ATM,c.86A>C,None,,0
+"Franklin, Diann",10/8/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,cscope,,350
+"Smith, Judith",10/8/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Thacker, Patricia",10/12/15,SJE,EAR,c50.919,breast,,N/A,N/A,N/A,MRI,,778.27
+"Coffey, Vonda",10/13/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Logsdon, Mary",10/13/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,None,,0
+"McHone, Tracy",10/14/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Stevens, Angel",10/14/15,SJH,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Watts, Cynthia",10/14/15,SJE,EAR,c18.9,colon,,Negative,N/A,N/A,None,,0
+"Heekin, Nicola",10/15/15,MCE,JKP,z80.3,fhx breast,,Positive,BRCA2,c.5073dupA,BRCA,,2245.77
+"Henderson, Tamela",10/20/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Phillips, April",10/20/15,SJE,EAR,c34.9,lung,,N/A,N/A,N/A,None,,0
+"Applegate, Kimberly",10/20/15,SJE,EAR,c56.9,ovary,Y,Negative,N/A,N/A,None,,0
+"Harrison, Mary",10/21/15,SJE,EAR,z80.3,fhx breast,,Positive,BRCA2,c.5035delA,BRCA,,2245.77
+"Truett, Jackie",10/21/15,SJL,EAR,c50.919,breast,,N/A,N/A,N/A,MRI,,778.27
+"Bolton, Kathy",10/22/15,SJE,EAR,z80.0,fhx GI,,N/A,N/A,N/A,cscope,,350
+"Hurst, Sandra K.",10/22/15,SJE,EAR,c18.9,colon,Y,VUS,APC,c.4372C>T,cscope,,350
+"Gooch, Brenda",10/27/15,MCE,JKP,c46.72,melanoma,,VUS,POLE,c.2090C>G,None,,0
+"Malone, Lisa",10/27/15,MCE,JKP,z80.41,fhx ovary,P,VUS,ATM,c.1837G>T,None,,0
+"Getchell, Marilyn",10/28/15,SJE,EAR,c50.919,breast,,VUS,ATM,c.2289T>A,MRI,,778.27
+"Greenwell, Mindy",10/28/15,SJE,EAR,z80.3,fhx breast,,N/A,N/A,N/A,None,,0
+"Toms, Sharon",10/28/15,MCE,JKP,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Stewart, Deborah",10/28/15,MCE,JKP,z80.3,fhx breast,,VUS,MSH2,c.1171G>A,None,,0
+"Lengel, Sandra",10/29/15,SJE,EAR,c50.919,breast,,Positive,CHEK2,c.483_185del,CHEK2,,1056.99
+"Wilhoit, Judy",10/29/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Cole, Laura Kate",10/29/15,MCE,JKP,c50.919,breast,,Positive,CHEK2,c.1100del,CHEK2,,1056.99
+"Myers, Debra",11/3/15,SJE,EAR,z80.3,fhx breast,,N/A,N/A,N/A,MRI,,778.27
+"Gore, Jennifer",11/3/15,SJE,EAR,z80.3,fhx breast,,Negative,N/A,N/A,None,,0
+"Webb, Sylvia",11/3/15,SJE,EAR,c56.9,ovary,,VUS/VUS,MSH2/PALB2,c.1730T>C/c.2356C>T,None,,0
+"Grubbs, Carolyn",11/5/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Tate, Nancy",11/5/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Floyd, Sandy",11/5/15,MCE,JKP,z80.0,fhx GI,,N/A,N/A,N/A,None,,0
+"Baker, Pamela",11/10/15,SJE,EAR,z80.41,fhx ovary,Y,Positive,MSH2,del exons 1-6,Lynch,,3771.44
+"Medina, Soleam",11/10/15,SJE,EAR,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Minix, Remonica",11/10/15,SJE,EAR,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Mattson, Kari",11/11/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Hayes, Kristina",11/11/15,SJE,EAR,z80.3,fhx breast,,N/A,N/A,N/A,None,,0
+"Schroelucke, David",11/11/15,SJE,EAR,c18.9,colon,,Negative,N/A,N/A,None,,0
+"Dietrich, Savannah",11/11/15,MCE,JKP,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Dietrich, Sharon",11/11/15,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Becker, Bonnie",11/11/15,MCE,JKP,c50.919,breast,Y,VUS,BARD1,c.659T>C,None,,0
+"Lewis, Diana",11/12/15,MCE,JKP,z80.3,fhx breast,,Positive,PMS2,c.400C>T,Lynch,,3771.44
+"Smith, Theresa",11/12/15,SJE,JKP,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Erdmann, Andrea",11/17/15,SJE,EAR,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Strunk, Carri",11/18/15,SJL,EAR,z80.3,fhx breast,,Positive,BRCA2,c.6757_6758del,BRCA,,2245.77
+"Keith, Lillie",11/18/15,SJL,EAR,c50.919,breast,,VUS,MSH6,c.94G>T,MRI,,778.27
+"Sparks, Linda",11/18/15,SJL,EAR,z80.3,fhx breast,,N/A,N/A,N/A,"MRI, cscope",,1128.27
+"Alexander, Amy",11/18/15,MCE,JKP,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Dye, Kayce",11/18/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,None,,0
+"Smith, Brandy",11/19/15,SJE,EAR,c50.919,breast,P,Positive,BRCA1,c.4524G>A,BRCA,,2245.77
+"Poole, Linette",11/19/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Holt, Amanda",11/24/15,SJE,EAR,c50.919,breast,Y,Positive,TP53,c.818G>A,Li Fraumeni,,10097.33
+"Rennie, Amber",11/25/15,SJE,EAR,c50.919,breast,,Positive,BRCA2,c.2957delA,BRCA,,2245.77
+"Scowby, Denise",11/30/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Caudill, Cheryl",11/30/15,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Dunaway, Pamela",11/30/15,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Bailey, Melissa",11/30/15,SJE,JKP,z80.41,fhx ovary,,Negative,N/A,N/A,None,,0
+"Carr, Michael",12/1/15,SJE,EAR,c18.9,colon,,N/A,N/A,N/A,cscope,,350
+"White, Susan",12/2/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Kidd, Teresa",12/2/15,SJE,JKP,c50.919,breast,P,Negative,N/A,N/A,MRI,,778.27
+"Stevens, Lisa",12/3/15,SJE,EAR,c50.919,breast,P,Negative,N/A,N/A,cscope,,350
+"Pfeiffer, Carla",12/3/15,SJE,EAR,z80.3,fhx breast,,N/A,N/A,N/A,None,,0
+"Alvarado, Stephanie",12/3/15,SJE,EAR,z80.41,fhx ovary,Y,Negative,N/A,N/A,None,,0
+"Lambert, Marilynn",12/3/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,None,,0
+"Sonne, Susan",12/8/15,MCE,JKP,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Camp, Iris",12/8/15,MCE,JKP,z80.3,fhx breast,Y,VUS/VUS,ATM/ATM,c.7004C>T/c.7174C>T,MRI,,778.27
+"Bond, Dorothy",12/8/15,MCE,JKP,z80.3,fhx breast,,VUS/VUS,ALK/RECQL4,c.4573_4575delAAG/c.2849C>G,None,,0
+"Starr, Laura",12/9/15,SJE,EAR,z80.3,fhx breast,P,Negative,N/A,N/A,MRI,,778.27
+"West, Gisele",12/9/15,MCE,JKP,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Nguyen, Loan",12/9/15,MCE,JKP,c18.9,colon,P,VLP,MUTYH,c.932-2A>G,MUTYH,,350
+"Gould, Donna",12/10/15,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Napier, Gaylene",12/10/15,SJE,EAR,z80.0,fhx GI,,N/A,N/A,N/A,None,,0
+"Meyer, Jessica",12/14/15,SJE,EAR,c41.9,osteosarcoma,,Negative,N/A,N/A,None,,0
+"Eversole, Sheena",12/16/15,SJL,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Ryan, Susan",12/16/15,MCE,JKP,z80.3,fhx breast,P,Negative,N/A,N/A,MRI,,778.27
+"McCoy, Kristie",12/17/15,SJE,EAR,z80.3,fhx breast,P,N/A,N/A,N/A,MRI,,778.27
+"Criswell, Marguerite",12/17/15,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Henderson, William",12/18/15,SJE,EAR,c18.9,colon,Y,Negative,N/A,N/A,None,,0
+"Decker, Amy",12/21/15,MCNE,JKP,z80.3,fhx breast,Y,Positive,BRCA2,c.5350_5351delAA,BRCA,,2245.77
+"Davis, Jill",12/21/15,MCNE,JKP,k63.5,polyps,Y,Negative,N/A,N/A,cscope,,350
+"Fincher, Dana",12/21/15,MCNE,JKP,z80.3,fhx breast,Y,VUS,MLH1,c.1487C>T,MRI,,778.27
+"Speed, Veronica",12/21/15,MCNE,JKP,z80.3,fhx breast,P,VUS,ATM,c.3925G>A,None,,0
+"Wallace, Carol",12/21/15,MCNE,JKP,z80.41,fhx ovary,,VUS,ATM,c.4561G>C,None,,0
+"King, Jennifer",12/22/15,MCE,JKP,z80.3,fhx breast,P,N/A,N/A,N/A,None,,0
+"Greenwell, Nancy",12/28/15,SJE,EAR,z80.0,fhx GI,,Negative,N/A,N/A,None,,0
+"Burton, Cindy",12/28/15,MCE,JKP,c50.919,breast,Y,VUS,PALB2,c.94C>T,None,,0
+"Schuster, Susan",12/29/15,SJE,EAR,z80.3,fhx breast,,Negative,N/A,N/A,MRI,,778.27
+"Jones Birch, Felicia",12/29/15,SJE,EAR,c50.919,breast,,VUS,STK11,c.894C>A,MRI,,778.27
+"Burks, Daniel",12/29/15,CBS,JKP,c18.9,colon,Y,Positive,MLH1,c.545+3A>G,Lynch,,3771.44
+"Sampson, Charissa",12/29/15,CBS,JKP,c43.72,melanoma,,VUS,POLE,c.2683G>A,None,,0
+"Adams, Shelly",12/30/15,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Page, Valerie",1/4/16,SJE,EAR,c16.9,stomach,Y,Positive,FANCC,c.1642C>T,MRI,MRI,778.27
+"Mattingly, Amber",1/5/16,SJE,EAR,k63.5,polyps,Y,Positive,APC,del exons promoter 1B,APC,,3437.53
+"Adkins, Justin",1/5/16,SJE,EAR,z85.0,colon,Y,Negative,N/A,N/A,cscope,30 adenos at 28,350
+"Pasley, Shirley",1/5/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Thompson, Marcella",1/6/16,SJE,EAR,c50.919,breast,Y,Positive,PALB2,c.3113G>A,PALB2,MRI,1550.49
+"Wright, Sheila",1/7/16,SJE,EAR,c50.919,breast,,Negative,N/A,N/A,MRI,,778.27
+"Snow, Shawndra",1/7/16,SJE,EAR,z85.85,thyroid,Y,Negative,N/A,N/A,MRI,,778.27
+"Gravil, Mary",1/7/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Means, Shelia",1/11/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Short, Wanda",1/12/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Meteyard, Alpha",1/12/16,SJE,EAR,z84.81,single site,Y,Negative,N/A,N/A,None,,0
+"Roy, Barbara",1/12/16,MCE,JKP,c50.919,breast,Y,VUS/VUS,MUTYH/PALB2,c.1258C>A/c.656A>G,MRI,,778.27
+"Brock, Carla",1/13/16,SJE,EAR,z85.0,colon,Y,Negative,N/A,N/A,"MRI, cscope",,1128.27
+"Judd, Gregory",1/13/16,MCE,JKP,z85.0,colon,Y,N/A,N/A,N/A,None,,0
+"Grawemeyer, Rebecca",1/13/16,MCE,JKP,z84.81,single site,Y,Negative,N/A,N/A,None,,0
+"Hall, Valerie",1/14/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Johnikin, Micean",1/14/16,SJE,EAR,c50.919,breast,Y,VUS,PMS2,c.1429T>A,MRI,,778.27
+"Barnett, Betty",1/14/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Cardwell, Miranda",1/14/16,MCE,JKP,c50.919,breast,Y,VUS,BRCA1,p.T1640A,MRI,,778.27
+"Montgomery, Megan",1/14/16,MCE,JKP,z80.41,fhx ovary,Y,Negative,N/A,N/A,None,,0
+"Embry, Tiffany",1/18/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Baxter, Melissa",1/19/16,SJE,EAR,z84.81,single site,Y,Positive,MSH2,5'UTR_exdel,Lynch,,3771.44
+"Herrir, Carla",1/19/16,SJE,EAR,c18.9,colon,Y,Negative,N/A,N/A,None,,0
+"Jones, Rechelle",1/19/16,SJE,EAR,z80.0,fhx GI,Y,Negative,N/A,N/A,None,,0
+"Kaiser, Angela",1/19/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Casey, Linda",1/19/16,MCE,JKP,c50.919,breast,Y,VUS,BRIP1,c.413T>C,None,,0
+"McDaniel, Brenda",1/20/16,SJL,EAR,E83.11,hemochromatosis,Y,Positive,HFE,c282Y homozygote,HFE,,419.31
+"Smith, Charles",1/20/16,SJL,EAR,c18.9,colon,Y,Positive,MSH2,del exons 1-6,Lynch,,3771.44
+"Bobbitt, Jacqueline",1/21/16,SJE,EAR,c50.919,breast,Y,Positive,BRCA1,ex2del,BRCA,,2245.77
+"Martin Calhoun, Deborah",1/21/16,SJE,EAR,c56.9,ovary,P,N/A,N/A,N/A,None,,0
+"Calhoun Martin, Deborah",1/21/16,SJE,EAR,z85.43,ovary,Y,N/A,N/A,N/A,None,,0
+"Courtney, Anissia",1/21/16,MCE,JKP,z80.3,fhx breast,Y,VUS,BRIP1,1936-5_1936-4delTCinsG,MRI,,778.27
+"Davis, Barbara",1/25/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Finnell, Joann",1/25/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Fyffe, Kelly",1/25/16,SJE,EAR,c50.919,breast,Y,VUS,NBN,c.664T>C,None,,0
+"Abughazaleh, Courtney",1/27/16,SJE,EAR,z80.3,fhx breast,Y,Positive,ATM,c.1339C>T,MRI,,778.27
+"Askins, Judith",1/27/16,MCE,JKP,z80.0,fhx GI,Y,Negative,N/A,N/A,cscope,20+ adenos at 71,350
+"Borders, Evelyn",1/28/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Ferrer, Susana",1/28/16,SJE,EAR,z80.3,fhx breast,Y,VUS,ATM,c.5626C>T,MRI,,778.27
+"Lovasz, Paulette",1/28/16,MCE,JKP,z85.43,ovary,Y,Negative,N/A,N/A,cscope,,350
+"Taylor, Connie",1/29/16,SJE,EAR,z85.3,breast,Y,N/A,N/A,N/A,None,,0
+"Renton, Ashley",2/1/16,SJE,EAR,c50.919,breast,P,Negative,N/A,N/A,MRI,,778.27
+"Baker, Beverly",2/1/16,MCE,JKP,z80.3,fhx breast,Y,VUS,ATM,c.4066A>G,MRI,,778.27
+"Rector, Kellie",2/3/16,SJE,EAR,z85.3,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Magee, John",2/3/16,Flaget,JKP,c18.9,colon,Y,Negative,N/A,N/A,cscope,CRC AT 39,350
+"Cooper, Joanna",2/3/16,Flaget,JKP,z85.43,ovary,Y,Positive/VUS,MUTYH/MUTYH/RET,c.544C>T/c.544C>T/c.139G>A,MAP,,3339.1
+"Pedigo, Amanda",2/3/16,Flaget,JKP,z85.3,breast,Y,VUS/VUS/VUS,PALB2/PMS2/POLE,c.298C>T/c.1004A>G/c.2087C>T,None,,0
+"Miller, Christy",2/4/16,SJE,EAR,z84.81,breast,Y,Negative,N/A,N/A,None,,0
+"Harper, Mary",2/4/16,SJE,EAR,c50.919,breast,Y,VUS,PALB2,c/1250C>A,None,,0
+"McKnight, Dora",2/4/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Burks, Michael",2/4/16,MCE,JKP,z84.81,single site,Y,Negative,N/A,N/A,None,,0
+"Grumbein, Adriane",2/9/16,SJE,EAR,z80.3,fhx breast,Y,VUS,CHEK2,c.1427C>T,MRI,,778.27
+"Floyd, Thelma",2/10/16,SJE,EAR,c50.919,breast,Y,VUS,RINT1,c.2085C>A,None,,0
+"Keats, Jennifer",2/11/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Page, Jennifer",2/11/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Stephens, Colleen",2/12/16,SJE,EAR,c18.9,colon,Y,VUS/VUS,RET/TSC1,c.1921G>A/c.850C>T,"MRI, cscope",CRC AT 29,1128.27
+"Beatty, Patricia",2/17/16,SJL,EAR,z80.3,fhx breast,Y,VUS,MLH1,c.955G>A,MRI,,778.28
+"Hammond, Michelle",2/17/16,SJL,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,"MRI, cscope",,1128.27
+"Roberts, Freda",2/17/16,SJC,EAR,z85.3,breast,Y,Negative,N/A,N/A,None,,0
+"Basham, Kerry",2/17/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Devaney Scott, Elidelys",2/17/16,MCE,JKP,z85.3,breast,Y,VUS,BRCA2,c.6560C>T/c.8179G>T,None,,0
+"Downs, Deloris",2/17/16,MCE,JKP,c50.919,breast,Y,VUS/VUS/VUS,ATM/FLCN/TMEM127,"c.1009C>T/c,580C>T/c.619G>A",None,,0
+"Drury, Brittany",2/18/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Morrison, Shane",2/22/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Ackerman, Mary",2/22/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Lucas, Gracie",2/23/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Smith, Sandra",2/23/16,Flaget,JKP,c18.9,colon,Y,VUS/VUS,APC/AXIN2,c.3299C>Tc.1685C>T,cscope,CRC AT 45,350
+"Marefat, Becky",2/24/16,SJE,EAR,z80.3,fhx breast,Y,Positive,BRCA1,c.3748G>T,BRCA,,2245.77
+"Levinson, Judy",2/24/16,SJE,EAR,c83.33,lymphoma,Y,N/A,N/A,N/A,None,,0
+"Thorne, Susan",2/24/16,MCE,JKP,z80.0,fhx GI,Y,VUS/VUS/VUS,ACVRL1/HRAS/POLE,c.1228C>T/c.498C>A/c.4736G>A,cscope,2FDR,350
+"Hare, Walter",2/24/16,MCE,JKP,c18.9,colon,Y,N/A,N/A,N/A,None,,0
+"Bennett, Leslie",2/24/16,MCE,JKP,c50.919,breast,Y,VUS,RAD50,c.785T>G,None,,0
+"Samples, Deborah",2/25/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Davison, Rebecca",2/25/16,SJE,EAR,c50.919,breast,Y,Positive,FANCC,c.67delG,MRI,,778.27
+"Davis, Lula",2/25/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Wentworth, Brenda",2/25/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Haack, Geraldine",2/29/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Wells, Jerrie",3/1/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Cosby, Amy",3/1/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Stephens, Jane",3/2/16,SJC,EAR,c56.9,ovary,Y,Negative,N/A,N/A,None,,0
+"Overhults, Faye",3/2/16,SJE,EAR,z85.3,breast,Y,Negative,N/A,N/A,None,,0
+"Ellis, Patricia",3/3/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Riffe, Stephen",3/3/16,MCE,JKP,z80.0,fhx GI,Y,Negative,N/A,N/A,cscope,,350
+"Stone, Tenna",3/3/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Edwards, Donna",3/3/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Dietz, Donna",3/7/16,SJE,EAR,c20.0,colon,Y,Negative,N/A,N/A,None,,0
+"Hughes, Ivy",3/7/16,SJE,EAR,z85.3,breast,Y,Positive,PALB2,c.3549C>G,PALB2,,1550.49
+"Hickman, Callie",3/8/16,SJE,EAR,z85.42,uterine,Y,Positive,MSH6,c.3699_3702delAGAA,Lynch,,3771.44
+"Boyd, Deborah",3/8/16,MCNE,EHT,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Welch, Ruth",3/8/16,MCNE,EHT,z85.3,breast,Y,pending,pending,pending,None,,0
+"Whan, Susannah",3/9/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Bottom, Sylvia",3/10/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Tudor, Patricia",3/10/16,SJE,EAR,z85.3,breast,Y,Negative,N/A,N/A,None,,0
+"Rycek, Tina",3/10/16,MCNE,EHT,z80.3,fhx breast,Y,Positive,CHEK2,c.349A>G,CHEK2,MRI,1056.99
+"Cash, Brooklyn",3/10/16,MCNE,EHT,z84.81,single site,Y,Negative,N/A,N/A,None,,0
+"Gilvin, Dana",3/14/16,SJE,EAR,c50.919,breast,Y,Positive/VUS,BRCA2/MUTYH,c.6074_6075delTC/c.1276C>T,"BRCA, cscope",,2595.77
+"Williamson, Lisa",3/14/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Albertini, Patricia",3/14/16,SJE,EAR,z85.0,colon,Y,N/A,N/A,N/A,None,,0
+"Koen, Donielle",3/15/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Smart, Kimberly",3/15/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Rice, Jamie",3/17/16,MCE,JKP,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Goff, Olena",3/22/16,MCNE,JKP,z80.3,fhx breast,Y,VUS,SMAD4,c.20C>T,None,,0
+"Olert, Elaine",3/23/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Gearheart, Heather",3/24/16,SJE,EAR,c50.919,breast,Y,VUS,FANCC,c.178T>C,MRI,,778.27
+"Hankins, William",3/24/16,MCE,JKP,c18.9,colon,Y,Positive,CHEK2,c.1368dupA,CHEK2,,1056.99
+"Slusser, Paul",3/28/16,MCE,JKP,z85.00,colon,Y,Negative,N/A,N/A,cscope,20+ POLYPS,350
+"Hardison, Tina",3/29/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Van Winkle, Carolyn",3/30/16,MCE,JKP,z80.3,fhx breast,Y,VUS/VUS,MSH6/TMEM127,c.59C>T/c.413T>C,MRI,,778.27
+"Sears, Todd",3/31/16,SJL,EAR,z80.0,fhx GI,Y,N/A,N/A,N/A,cscope,,350
+"Beckett, Garcia",4/1/16,SJE,EAR,c18.9,colon,Y,Positive,MSH2,c.942+3A>T,Lynch,,3771.44
+"Doughton, Shirley",4/4/16,SJE,EAR,c50.919,breast,Y,N/A,N/A,N/A,cscope,,350
+"Chastain, Angela",4/4/16,SJE,EAR,z80.3,fhx breast,Y,VUS,BRCA2,c.7448G>A,MRI,,778.27
+"Bryan, Amy",4/4/16,MCE,JKP,c50.919,breast,Y,VUS,MSH6,c.893G>A,MRI,,778.27
+"Tibbitts, Sondra",4/5/16,SJE,EAR,z80.0,fhx GI,Y,Positive,MSH2,del exons 1-6,Lynch,,3771.44
+"Ybarrola, Lorie",4/5/16,SJE,EAR,z80.41,fhx ovary,Y,VUS,PIK3CA,c.1130C>G,MRI,,778.27
+"Smith, Brandon",4/6/16,Flaget,JKP,z80.0,fhx GI,Y,Negative,N/A,N/A,cscope,,350
+"Merriman, Nathan",4/6/16,Flaget,JKP,z80.0,fhx GI,Y,VUS,AXIN2/CEBPA/FLCN/MET,c.1685C>T,cscope,,350
+"Phillips, Teresa",4/7/16,SJE,EAR,z80.41,fhx ovary,Y,Negative,N/A,N/A,MRI,,778.27
+"Walbert, Christine",4/7/16,SJE,EAR,z85.3,breast,Y,N/A,N/A,N/A,None,,0
+"Watts, Steven",4/7/16,SJE,EAR,c65.1,renal pelvis,Y,Negative,N/A,N/A,None,,0
+"Smart, Marilyn",4/8/16,SJE,EAR,c50.919,breast,Y,Positive,BRCA2,c.7976G>A,BRCA,,2245.77
+"Cook, Lindsey",4/11/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Fain, Amy",4/11/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Lindsey, Vicki",4/11/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Gardner, Cynthia",4/11/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Paul, June",4/12/16,SJC,EAR,c18.9,colon,Y,N/A,N/A,N/A,None,,0
+"Henson, Carleen",4/12/16,SJC,EAR,z80.0,fhx GI,Y,N/A,N/A,N/A,None,,0
+"Mills, Lola",4/12/16,SJC,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Staley, Tammy",4/12/16,MCE,JKP,c50.919,breast,Y,Positive,RAD51D,c.185C>A,RAD51D,,624
+"Meyer, Deania",4/14/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Graves, Nedra",4/14/16,SJE,EAR,z85.3,breast,Y,N/A,N/A,N/A,None,,0
+"Spaulding, Debra",4/18/16,SJE,EAR,c50.919,breast,Y,Positive,BRCA1,c.631+2T>G,BRCA,,2245.77
+"Perry, Barbara",4/18/16,SJE,EAR,c50.919,breast,Y,VUS/VUS,POLE/TSC2,c.4879C>T/c.5265C>T,MRI,,778.27
+"Brown, Sheila",4/18/16,SJE,EAR,c50.919,breast,Y,N/A,N/A,N/A,None,,0
+"Major, Emily",4/19/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Smart, David",4/19/16,SJE,EAR,z84.81,single site,Y,Negative,N/A,N/A,None,,0
+"Lichtefeld, Bonnie",4/19/16,MCNE,EHT,z85.3,breast,Y,VUS/VUS,RECQL4/WRN,c.215C>T/c.3875C>A,None,,0
+"Jones, Kaitlyn",4/20/16,SJL,EAR,z80.3,fhx breast,Y,VUS,PMS2,c.1004A>G,MRI,,778.27
+"Eversole, Donna",4/20/16,SJL,EAR,c50.919,breast,Y,VUS,NBN,c.547G>A,None,,0
+"Scurlock, Crystal",4/20/16,Flaget,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Underwood, Carrie",4/20/16,Flaget,JKP,z84.81,single site,Y,Negative,N/A,N/A,None,,0
+"Baker, Emmily",4/21/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Dungan, Margaret",4/26/16,SJE,EAR,z80.3,fhx breast,Y,VUS,POLD1,c.427G>A,MRI,,778.27
+"Major, Rilda",4/26/16,SJE,EAR,c50.919,breast,Y,N/A,N/A,N/A,None,,0
+"Howard, Joyce",4/27/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Hubbs, Melody",4/27/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Leachman, Mackenzie",4/27/16,SJE,EAR,z80.3,fhx breast,Y,VUS,PMS2,c.961G>A,MRI,,778.27
+"Eyman, Kelly",4/28/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,MRI,,778.27
+"Drisker, Trinia",4/28/16,SJE,EAR,c50.919,breast,Y,VUS,MUTYH,c.1508G>A,MRI,,778.27
+"Faurest, Mitzie",4/28/16,MCE,JKP,200.37,lymphoma,Y,VUS/VUS,APC/SDHAF2,c.388A>G/c.385C>T,None,,0
+"Holsclaw, Tracy",5/2/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Fernheimer, Janice",5/3/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Riggs, Mary",5/4/16,SJH,EAR,c50.919,breast,Y,VUS,FANCC,c.178G>A,MRI,,778.27
+"Kell, Constance",5/4/16,SJE,EAR,z80.3,fhx breast,Y,VUS,ATM,c.8860T>C,None,,0
+"Schott, Ashley",5/4/16,Flaget,JKP,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Gagel, Diane",5/5/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Bruner, Barbara",5/5/16,SJE,EAR,c50.919,breast,Y,VUS,ATM,c.7574T>G,"MRI, cscope",,1128.27
+"Luke, Betty",5/5/16,SJC,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Blevins, Charlene",5/9/16,SJE,EAR,z85.85,thyroid,Y,VUS,MRE11A,c.794A>C,cscope,,350
+"Roberts, Corinna",5/9/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Leppo, Carole",5/9/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Noble, Angel",5/10/16,SJE,EAR,z80.3,fhx breast,Y,pending,pending,pending,MRI,,778.27
+"Hunt, Joye",5/11/16,SJE,EAR,z85.3,breast,Y,Positive,CHEK2,c.444+1G>A,CHEK2,,1056.99
+"Radebaugh, Sharon",5/11/16,MCE,JKP,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Van Winkle, Julian",5/11/16,MCE,JKP,z80.3,fhx breast,Y,VUS,KIF1B,c.2848G>A,None,,0
+"Havard, David",5/11/16,MCE,JKP,z80.0,fhx GI,Y,pending,pending,pending,pending-I,,0
+"Jones, Jody",5/12/16,SJE,EAR,z80.49,fhx uterine,Y,N/A,N/A,N/A,None,,0
+"Morton, Anna",5/17/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Gibson, Jeanne",5/17/16,MCE,JKP,z85.3,breast,Y,Negative,N/A,N/A,cscope,,350
+"Bryarly, Heather",5/19/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Decors, Margaret",5/19/16,SJE,EAR,z84.81,single site,Y,N/A,N/A,N/A,None,,0
+"Crowe, Karen",5/19/16,SJE,EAR,z80.41,fhx ovary,Y,Negative,N/A,N/A,None,,0
+"Lewis, Brandon",5/19/16,SJE,EAR,z80.41,fhx ovary,Y,Negative,N/A,N/A,None,,0
+"Flippins, Ronnie",5/19/16,MCE,JKP,z84.1,fhx kidney,Y,Negative,N/A,N/A,None,,0
+"Matthews, Pauletta",5/19/16,MCE,JKP,z80.0,fhx GI,Y,VUS,WRN,c.3875C>A,None,,0
+"Johnson, Margaret",5/23/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Caudill, Amanda",5/24/16,SJE,EAR,c18.9,colon,Y,Positive,MSH2,del exons 1-6,Lynch,,3771.44
+"Purdie, Amy",5/24/16,SJE,EAR,c50.919,breast,Y,VUS,MSH6,c.107C>T,None,,0
+"Amador, Nelson",5/24/16,SJE,EAR,c64.9,kidney,Y,Positive,VHL,del exon 2,VHL,,3453.15
+"Karthikeyan, Jordan",5/25/16,SJE,EAR,z80.0,fhx GI,Y,Negative,N/A,N/A,MRI,,778.27
+"Lynch, Jeanna",5/25/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Joseph, Leah",5/26/16,SJE,EAR,c50.919,breast,Y,Positive,BRCA1,c.5136G>A,BRCA,,2245.77
+"Ledbetter, Deborah",5/26/16,SJE,EAR,c56.9,ovary,Y,Negative,N/A,N/A,cscope,,350
+"Collings, Frances",5/26/16,MCE,JKP,c18.9,colon,Y,Negative,N/A,N/A,None,,0
+"Hart, Patricia",5/26/16,MCE,JKP,z80.3,fhx breast,Y,pending,pending,pending,pending-G,,0
+"Moldovan, Stefana",5/31/16,SJE,EAR,z80.3,fhx breast,Y,Positive,FANCC,c.37C>T,MRI,MRI,778.27
+"Wang, Rongqing",5/31/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Kincaid, Sherry",5/31/16,SJE,EAR,c50.919,breast,Y,VUS,DIS3LW,c.1192C>A,None,,0
+"Lacoude, Amanda",6/1/16,SJH,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Davidson, Caitlin",6/2/16,SJE,EAR,z80.3,fhx breast,Y,VUS/VUS,CHEK2/NF1,c.1556G>A/c.3436G>A,MRI,,778.27
+"Gray, Carol",6/2/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Patterson, Laura",6/2/16,SJE,EAR,z85.3,breast,Y,Negative,N/A,N/A,None,,0
+"York, Lisa",6/2/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Burns, Pamela",6/2/16,MCE,JKP,c50.919,breast,Y,pending,pending,pending,pending-I,,0
+"McLeod, Catherine",6/3/16,MCE,JKP,z80.9,fhx melanoma,Y,Positive,MITF,c.952G>A,Derm,,155.4
+"Smith, Suzanne",6/6/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Satterfield, Elizabeth",6/6/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Andrews, Janet",6/6/16,SJE,EAR,z80.3,fhx breast,Y,pending,pending,pending,None,,0
+"Atha, Skot",6/6/16,SJE,EAR,k63.5,polyps,Y,pending,pending,pending,pending-A,,0
+"Hart, Kimberly",6/6/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,"MRI, cscope",,1128.27
+"Blair, Lisa",6/7/16,SJE,EAR,z80.3,fhx breast,Y,Positive,BRCA2,c.6074_6075delTC,BRCA,,2245.77
+"Anderson, Karen",6/7/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"McDaniel, Willa",6/8/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Kurzynske, Janet",6/8/16,SJE,EAR,z80.41,fhx ovary,Y,VUS,ATM,c.3155C>T,None,,0
+"Kurzynske, Frank",6/8/16,SJE,EAR,z80.41,fhx ovary,Y,VUS/VUS,BRCA2/CDH1,c.10253T>A/c.1417G>A,None,,0
+"Lindon, Rebecca",6/8/16,MCE,JKP,c50.919,breast,Y,VUS,DICER1,c.2437-4T>C,MRI,,778.27
+"Stock, Mandy",6/8/16,MCE,JKP,z80.3,fhx breast,Y,VUS,BRCA1,c.442-34C>T,MRI,,778.27
+"Henry, Nicole",6/8/16,MCE,JKP,z80.3,fhx breast,Y,VUS/VUS/VUS/VUS,AXIN2/CEBPA/FLCN/MET,c.1369G>A/ c.724G>A/c.1198C>T/c.1039G>A,MRI,,778.27
+"Ritchie, Veronica",6/9/16,SJE,EAR,z80.41,fhx ovary,Y,Negative,N/A,N/A,MRI,,778.27
+"Hillenmeyer, Harriet",6/9/16,SJE,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Hancock, Margaret",6/9/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Chenault, Marsha",6/13/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Fernand, Pamela",6/14/16,SJE,EAR,z85.00,colon,Y,VUS,MUTYH,c.346C>T,None,,0
+"Culbertson, Cathy",6/14/16,MCNE,EHT,c50.919,breast,Y,N/A,N/A,N/A,None,,0
+"Watters, Jackie",6/15/16,SJC,EAR,z85.43,ovary,Y,Positive,MSH6,c.3939_3957dupTCAAAAGGGACATAGAAAA,Lynch,,3771.44
+"Asher, Twila",6/15/16,SJL,EAR,c50.919,breast,Y,VUS,PMS2,c.1004A>G,None,,0
+"Bartee, Da'Nisha",6/15/16,MCNE,EHT,c50.919,breast,Y,Positive/VUS/VUS,BRCA1/CDK4/PTEN,c.68_69delAG/p.H296Y/c.-1206G>A,BRCA,,2245.77
+"Keeney, Sebrina",6/15/16,MCNE,EHT,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"McDaniels, Janet",6/15/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Williams, Amy",6/16/16,SJE,EAR,z85.43,ovary,Y,Positive,ATM,c.8147T>C,ATM,,704.85
+"Strong, Mark",6/16/16,MCNE,EHT,z80.0,fhx GI,Y,Negative,N/A,N/A,cscope,FDR at 45,350
+"Jones, Dawn",6/16/16,MCNE,EHT,c18.9,colon,Y,VUS,BMPR1A,c.253A>G,cscope,,350
+"Smith, Diane",6/16/16,MCNE,EHT,z80.3,fhx breast,Y,pending,pending,pending,pending-A,,0
+"Kenemore, Kimberly",6/16/16,MCE,JKP,z80.3,fhx breast,Y,VUS/VUS,BAP1/BUB1B,c.1212C>G/c.2785G>A,MRI,,778.27
+"Hickman, Patricia",6/16/16,MCE,JKP,z80.3,fhx breast,Y,VUS/VUS/VUS,BRCA2/CTNNA1/STK11,c.7610A>G/c.410G>A/c.116G>T,None,,0
+"Melvin, Jennifer",6/20/16,SJE,EAR,c50.919,breast,Y,VUS/VUS,DICER1/SMARCA4,c.3778G>A/c.2853G>T,MRI,,778.27
+"Muncy, Patricia",6/21/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Lowe, Sandra",6/22/16,SJE,EAR,z85.3,breast,Y,Negative,N/A,N/A,None,,0
+"Clark, Jearlean",6/22/16,SJE,EAR,z85.3,breast,Y,VUS/VUS/VUS,BRIP1/FANCC/POLD1,c.2914G>A/c.934A>G/c.784G>A,None,,0
+"Southard, Marguerite",6/22/16,SJE,EAR,z85.3,breast,Y,pending,pending,pending,pending-A,,0
+"Harvey, Janet",6/22/16,SJE,EAR,z80.3,fhx breast,Y,pending,pending,pending,pending-I,,0
+"Sheetinger, Lee",6/22/16,MCE,JKP,c18.9,colon,Y,pending,pending,pending,pending-I,,0
+"Smith, Donna",6/23/16,SJE,EAR,z80.41,fhx ovary,Y,Positive,BRCA2,c.6275_6276delTT,BRCA,,2245.77
+"Milner, Kimberly",6/23/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Rust, Marsha",6/24/16,MCE,JKP,z80.3,fhx breast,Y,pending,pending,pending,pending-G,,0
+"Stivers, Henry",6/28/16,SJE,EAR,c25.9,pancreas,Y,Negative,N/A,N/A,None,,0
+"Little Bailey, Kymberly",6/28/16,SJE,EAR,z80.0,fhx GI,Y,Negative,N/A,N/A,None,,0
+"Jacobs, Janet",6/28/16,MCE,JKP,z80.0,fhx GI,Y,VUS,MET,c.901A>G,None,,0
+"Diamond, Priscilla",6/28/16,MCE,JKP,c25.9,pancreas,Y,VUS/VUS,POLE/SDHB,c.940T>G/c.158G>A,None,,0
+"Paul, Shannon",6/29/16,SJE,EAR,z80.3,fhx breast,Y,VUS,POLD1,c.1174G>A,MRI,,778.27
+"Delph, Charles",6/29/16,MCE,JKP,z80.0,fhx GI,Y,Positive/VUS,MUTYH/MSH2,c.536A>G/c.1730T>C,MUTYH,,350
+"Morgan, Margaret",6/30/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Morrow, Dawnita",6/30/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Richards, Melissa",6/30/16,SJE,EAR,z84.81,single site,Y,pending,pending,pending,pending-M,,0
+"Johnson, Stacy",6/30/16,MCE,JKP,c50.919,breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Prater, Dorothy",6/30/16,MCE,JKP,z85.3,breast,Y,Negative,N/A,N/A,None,,0
+"Reeder, Tonya",6/30/16,MCE,JKP,c50.919,breast,Y,pending,pending,pending,pending-I,,0
+"Bowling, Tina",7/5/16,MCNE,EHT,c50.919,breast,Y,VUS,BMPR1A,c.1216C>T,MRI,,778.27
+"Jordan, Rhonda",7/6/16,SJL,EAR,z85.3,breast,Y,N/A,N/A,N/A,BRCA,,2245.77
+"Ferrer, Rachel",7/6/16,SJL,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Jordan, Amber",7/6/16,SJL,EAR,z80.3,fhx breast,Y,N/A,N/A,N/A,None,,0
+"Hopkins, Kevin",7/6/16,SJL,EAR,c18.9,colon,Y,Negative,N/A,N/A,None,,0
+"Griffith, Adrian",7/6/16,MCNE,EHT,c18.9,colon,Y,pending,pending,pending,pending-I,,0
+"Byers, Sharon",7/6/16,MCE,EHT,c50.919,breast,Y,pending,pending,pending,pending-I,,0
+"Gilliam, Shirley",7/7/16,MCNE,EHT,z80.3,fhx breast,Y,Positive,MUTYH,c.1187G>A,"MUTYH, MRI",,1128.27
+"Pruitt, Aubray",7/7/16,MCNE,EHT,z80.0,fhx GI,Y,pending,pending,pending,pending-A,,0
+"Eskridge, Karla",7/7/16,MCE,JKP,c50.919,breast,Y,Positive,BRCA2,c.1054dupT,BRCA,,2245.77
+"Re, Cheryl",7/8/16,SJE,EAR,c50.919,breast,Y,Negative,N/A,N/A,None,,0
+"Napier, Erma",7/11/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Everage, Deborah",7/12/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Welch, Cristina",7/12/16,MCE,JKP,c50.919,breast,Y,pending,pending,pending,pending-A,,0
+"DeVries, Jennifer",7/12/16,MCE,JKP,z80.3,fhx breast,Y,pending,pending,pending,pending-A,,0
+"Piecoro, John",7/13/16,SJE,EAR,c18.9,colon,Y,VUS,MSH6,c.3079G>C,None,,0
+"Smith, Rebecca",7/14/16,SJE,EAR,c50.919,breast,Y,VUS/VUS,ATM/BRIP1,c.3689A>G/c.139C>G,None,,0
+"Ewbanks, Lourrae",7/14/16,SJE,EAR,z85.3,breast,Y,pending,pending,pending,pending-I,,0
+"Skaggs, Peggy",7/14/16,MCE,JKP,c18.9,colon,Y,Negative,N/A,N/A,Lynch,,3771.44
+"Van Winkle, Tracie",7/19/16,SJE,EAR,z80.3,fhx breast,Y,Negative,N/A,N/A,MRI,,778.27
+"Irvin, Kimberly",7/19/16,MCE,JKP,c50.919,breast,Y,pending,pending,pending,pending-A,,0
+"Osborne, Michelle",7/20/16,SJL,EAR,c50.919,breast,Y,pending,pending,pending,pending-A,,0
+"May, Angela",7/21/16,SJE,EAR,c25.9,pancreas,Y,VUS,RECQL4,c.1652C>T,None,,0
+"Storms, Patricia",7/21/16,SJE,EAR,c18.9,colon,Y,pending,pending,pending,pending-A,,0
+"Tussey, Priscilla",7/25/16,SJE,EAR,c50.919,breast,Y,pending,pending,pending,pending-I,,0
+"Coldiron, Lue",7/26/16,SJE,EAR,z80.41,fhx ovary,Y,pending,pending,pending,pending-F,,0
+"Pater, Hazel",7/26/16,SJE,EAR,z85.3,breast,Y,pending,pending,pending,pending-F,,0
+"Galante, Catherine",7/26/16,MCE,JKP,c50.919,breast,Y,pending,pending,pending,pending-A,,0
+"Robinson, Harvey",7/27/16,SJE,EAR,c18.9,colon,Y,pending,pending,pending,pending-F,,0
+"Roberts, Kimberly",7/27/16,SJE,EAR,c50.919,breast,Y,pending,pending,pending,pending-F,,0
+"Faller, Rhoda",7/27/16,MCE,JKP,z80.3,fhx breast,Y,Negative,N/A,N/A,None,,0
+"Gabbard Jones, Neva",7/27/16,MCE,JKP,z80.3,fhx breast,Y,pending,pending,pending,pending-F,,0
+"Hobbs, Sheila",7/28/16,SJE,EAR,c56.9,ovary,Y,pending,pending,pending,pending,,0
+"Lee, Pearl",7/28/16,SJE,EAR,c50.919,breast,Y,pending,pending,pending,pending-F,,0
+"Carpenter, Diana",7/28/16,MCE,JKP,c50.919,breast,Y,pending,pending,pending,pending-F,,0
+"Kaelin, Wendy",7/28/16,SJE,JKP,z80.3,fhx breast,Y,pending,pending,pending,pending-F,,0
+"O'Holleran, Susan",7/28/16,MCE,JKP,z80.41,fhx ovary,Y,pending,pending,pending,pending-F,,0

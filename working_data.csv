@@ -1,440 +1,550 @@
-"DOS","Location","Counselor","ICD10","Indication","Progeny","Result","Gene","Mutation","Needs","NA.","Cost","PatID"
-2016-01-27,"SJE","EAR","z80.3","fhx breast","Y","Positive","ATM","c.1339C>T","MRI",NA,778.27,1
-2016-02-22,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,2
-2015-10-02,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,3
-2015-07-21,"CBS","MEO","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,4
-2015-12-30,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,5
-2016-01-05,"SJE","EAR","z85.0","colon","Y","Negative","N/A","N/A","cscope","30 adenos at 28",350,6
-2015-10-08,"SJE","EAR","c50.919","breast","Y","VUS","ATM","c.86A>C","None",NA,0,7
-2016-03-14,"SJE","EAR","z85.0","colon","Y","N/A","N/A","N/A","None",NA,0,8
-2015-11-18,"MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,9
-2015-12-03,"SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","None",NA,0,10
-2016-05-24,"SJE","EAR","c64.9","kidney","Y","Positive","VHL","del exon 2","VHL",NA,3453.15,11
-2016-06-07,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,12
-2016-06-06,"SJE","EAR","z80.3","fhx breast","Y","pending","pending","pending","None",NA,0,13
-2015-10-20,"SJE","EAR","c56.9","ovary","Y","Negative","N/A","N/A","None",NA,0,14
-2015-07-28,"MCE","JKP","z80.41","fhx ovary","Y","Negative","N/A","N/A","None",NA,0,15
-2016-06-15,"SJL","EAR","c50.919","breast","Y","VUS","PMS2","c.1004A>G","None",NA,0,16
-2016-01-27,"MCE","JKP","z80.0","fhx colon","Y","Negative","N/A","N/A","cscope","20+ adenos at 71",350,17
-2016-06-06,"SJE","EAR","k63.5","polyps","Y","pending","pending","pending","pending-A",NA,0,18
-2015-11-30,"SJE","JKP","z80.41","fhx ovary",NA,"Negative","N/A","N/A","None",NA,0,19
-2016-02-01,"MCE","JKP","z80.3","fhx breast","Y","VUS","ATM","c.4066A>G","MRI",NA,778.27,20
-2015-07-21,"CBS","MEO","c56.9","ovary","Y","Negative","N/A","N/A","None",NA,0,21
-2016-04-21,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,22
-2015-11-10,"SJE","EAR","z80.41","fhx ovary","Y","Positive","MSH2","del exons 1-6","Lynch",NA,3771.44,23
-2016-01-14,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,24
-2015-10-07,"SJE","EAR","z80.3","breast","Y","N/A","N/A","N/A","MRI",NA,778.27,25
-2016-06-15,"MCNE","EHT","c50.919","breast","Y","Positive/VUS/VUS","BRCA1/CDK4/PTEN","c.68_69delAG/p.H296Y/c.-1206G>A","BRCA",NA,2245.77,26
-2016-02-17,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,27
-2016-01-19,"SJE","EAR","z84.81","single site","Y","Positive","MSH2","5'UTR_exdel","Lynch",NA,3771.44,28
-2016-02-17,"SJL","EAR","z80.3","fhx breast","Y","VUS","MLH1","c.955G>A","MRI",NA,778.28,29
-2015-11-11,"MCE","JKP","c50.919","breast","Y","VUS","BARD1","c.659T>C","None",NA,0,30
-2016-04-01,"SJE","EAR","c18.9","colon","Y","Positive","MSH2","c.942+3A>T","Lynch",NA,3771.44,31
-2016-02-24,"MCE","JKP","c50.919","breast","Y","VUS","RAD50","c.785T>G","None",NA,0,32
-2015-10-06,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,33
-2015-07-10,"MCNE","MEO","z80.0","fhx colon","Y","Negative","N/A","N/A","None",NA,0,34
-2015-10-06,"CBS","JKP","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,35
-2016-06-07,"SJE","EAR","z80.3","fhx breast","Y","Positive","BRCA2","c.6074_6075delTC","BRCA",NA,2245.77,36
-2016-05-09,"SJE","EAR","z85.85","thyroid","Y","VUS","MRE11A","c.794A>C","cscope",NA,350,37
-2015-09-01,"CBS","JKP","c18.9","colon",NA,"Negative","N/A","N/A","Lynch",NA,3771.44,38
-2016-01-21,"SJE","EAR","c50.919","breast","Y","Positive","BRCA1","ex2del","BRCA",NA,2245.77,39
-2015-10-22,"SJE","EAR","z80.0","fhx colon",NA,"N/A","N/A","N/A","cscope",NA,350,40
-2015-12-08,"MCE","JKP","z80.3","fhx breast",NA,"VUS/VUS","ALK/RECQL4","c.4573_4575delAAG/c.2849C>G","None",NA,0,41
-2016-01-28,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,42
-2016-03-10,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,43
-2016-07-05,"MCNE","EHT","c50.919","breast","Y","VUS","BMPR1A","c.1216C>T","MRI",NA,778.27,44
-2016-03-08,"MCNE","EHT","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,45
-2015-05-13,"SJE","ES","c50.919","breast",NA,"Positive","PALB2","c.3244_3245del","PALB2",NA,1550.49,46
-2015-10-07,"SJE","EAR","k63.5","polyps",NA,"Negative","N/A","N/A","cscope",NA,350,47
-2016-01-13,"SJE","EAR","z85.0","colon","Y","Negative","N/A","N/A","MRI, cscope",NA,1128.27,48
-2016-04-18,"SJE","EAR","c50.919","breast","Y","N/A","N/A","N/A","None",NA,0,49
-2015-06-05,"SJE","MEO","c50.919","breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,50
-2016-05-05,"SJE","EAR","c50.919","breast","Y","VUS","ATM","c.7574T>G","MRI, cscope",NA,1128.27,51
-2016-04-04,"MCE","JKP","c50.919","breast","Y","VUS","MSH6","c.893G>A","MRI",NA,778.27,52
-2016-05-19,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,53
-2015-12-29,"CBS","JKP","c18.9","colon","Y","Positive","MLH1","c.545+3A>G","Lynch",NA,3771.44,54
-2016-02-04,"MCE","JKP","z84.81","single site","Y","Negative","N/A","N/A","None",NA,0,55
-2016-06-02,"MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-I",NA,0,56
-2015-06-06,"SJE","MEO","z80.0","fhx colon",NA,"N/A","N/A","N/A","MRI",NA,778.27,57
-2015-12-28,"MCE","JKP","c50.919","breast","Y","VUS","PALB2","c.94C>T","None",NA,0,58
-2016-07-06,"MCE","EHT","c50.919","breast","Y","pending","pending","pending","pending-I",NA,0,59
-2016-01-21,"SJE","EAR","z85.43","ovary","Y","N/A","N/A","N/A","None",NA,0,60
-2015-12-08,"MCE","JKP","z80.3","fhx breast","Y","VUS/VUS","ATM/ATM","c.7004C>T/c.7174C>T","MRI",NA,778.27,61
-2016-01-14,"MCE","JKP","c50.919","breast","Y","VUS","BRCA1","p.T1640A","MRI",NA,778.27,62
-2016-07-28,"MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-F",NA,0,63
-2015-12-01,"SJE","EAR","c18.9","colon",NA,"N/A","N/A","N/A","cscope",NA,350,64
-2016-01-19,"MCE","JKP","c50.919","breast","Y","VUS","BRIP1","c.413T>C","None",NA,0,65
-2016-03-10,"MCNE","EHT","z84.81","single site","Y","Negative","N/A","N/A","None",NA,0,66
-2016-05-24,"SJE","EAR","c18.9","colon","Y","Positive","MSH2","del exons 1-6","Lynch",NA,3771.44,67
-2015-11-30,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,68
-2016-04-04,"SJE","EAR","z80.3","fhx breast","Y","VUS","BRCA2","c.7448G>A","MRI",NA,778.27,69
-2016-06-13,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,70
-2016-06-22,"SJE","EAR","z85.3","breast","Y","VUS/VUS/VUS","BRIP1/FANCC/POLD1","c.2914G>A/c.934A>G/c.784G>A","None",NA,0,71
-2015-07-21,"CBS","MEO","c50.919","breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,72
-2015-10-13,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,73
-2016-07-26,"SJE","EAR","z80.41","fhx ovary","Y","pending","pending","pending","pending-F",NA,0,74
-2015-10-29,"MCE","JKP","c50.919","breast",NA,"Positive","CHEK2","c.1100del","CHEK2",NA,1056.99,75
-2016-05-26,"MCE","JKP","c18.9","colon","Y","Negative","N/A","N/A","None",NA,0,76
-2016-04-11,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,77
-2016-02-03,"Flaget","JKP","z85.43","ovary","Y","Positive/VUS","MUTYH/MUTYH/RET","c.544C>T/c.544C>T/c.139G>A","MAP",NA,3339.1,78
-2016-03-01,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,79
-2016-01-21,"MCE","JKP","z80.3","fhx breast","Y","VUS","BRIP1","1936-5_1936-4delTCinsG","MRI",NA,778.27,80
-2015-12-17,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,81
-2016-05-19,"SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","None",NA,0,82
-2016-06-14,"MCNE","EHT","c50.919","breast","Y","N/A","N/A","N/A","None",NA,0,83
-2015-05-15,"SJE","MEO","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,84
-2016-06-02,"SJE","EAR","z80.3","fhx breast","Y","VUS/VUS","CHEK2/NF1","c.1556G>A/c.3436G>A","MRI",NA,778.27,85
-2016-01-25,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,86
-2015-12-21,"MCNE","JKP",NA,"polyps","Y","Negative","N/A","N/A","cscope",NA,350,87
-2015-06-06,"MCNE","MEO","c50.919","breast",NA,"N/A","N/A","N/A","cscope",NA,350,88
-2016-02-25,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,89
-2016-02-25,"SJE","EAR","c50.919","breast","Y","Positive","FANCC","c.67delG","MRI",NA,778.27,90
-2015-09-09,"SJE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","None",NA,0,91
-2015-12-21,"MCNE","JKP","z80.3","fhx breast","Y","Positive","BRCA2","c.5350_5351delAA","BRCA",NA,2245.77,92
-2016-05-19,"SJE","EAR","z84.81","single site","Y","N/A","N/A","N/A","None",NA,0,93
-2016-06-29,"MCE","JKP","z80.0","fhx colon","Y","Positive/VUS","MUTYH/MSH2","c.536A>G/c.1730T>C","MUTYH",NA,350,94
-2016-02-17,"MCE","JKP","z85.3","breast","Y","VUS","BRCA2","c.6560C>T/c.8179G>T","None",NA,0,95
-2016-07-12,"MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-A",NA,0,96
-2016-06-28,"MCE","JKP","c25.9","pancreas","Y","VUS/VUS","POLE/SDHB","c.940T>G/c.158G>A","None",NA,0,97
-2015-11-11,"MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,98
-2015-11-11,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,99
-2016-03-07,"SJE","EAR","c20.0","colon","Y","Negative","N/A","N/A","None",NA,0,100
-2016-04-04,"SJE","EAR","c50.919","breast","Y","N/A","N/A","N/A","cscope",NA,350,101
-2016-02-17,"MCE","JKP","c50.919","breast","Y","VUS/VUS/VUS","ATM/FLCN/TMEM127","c.1009C>T/c,580C>T/c.619G>A","None",NA,0,102
-2016-04-28,"SJE","EAR","c50.919","breast","Y","VUS","MUTYH","c.1508G>A","MRI",NA,778.27,103
-2016-02-18,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,104
-2015-11-30,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,105
-2016-04-26,"SJE","EAR","z80.3","fhx breast","Y","VUS","POLD1","c.427G>A","MRI",NA,778.27,106
-2015-11-18,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","None",NA,0,107
-2016-03-03,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,108
-2016-03-03,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,109
-2016-01-18,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,110
-2015-11-17,"SJE","EAR","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,111
-2016-07-07,"MCE","JKP","c50.919","breast","Y","Positive","BRCA2","c.1054dupT","BRCA",NA,2245.77,112
-2016-07-12,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,113
-2015-07-07,"MCE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,114
-2016-04-20,"SJL","EAR","c50.919","breast","Y","VUS","NBN","c.547G>A","None",NA,0,115
-2015-12-16,"SJL","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,116
-2016-07-14,"SJE","EAR","z85.3","breast","Y","pending","pending","pending","pending-I",NA,0,117
-2016-04-28,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,118
-2016-04-11,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,119
-2016-07-27,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,120
-2016-04-28,"MCE","JKP","200.37","lymphoma","Y","VUS/VUS","APC/SDHAF2","c.388A>G/c.385C>T","None",NA,0,121
-2016-06-14,"SJE","EAR","z85.00","colon","Y","VUS","MUTYH","c.346C>T","None",NA,0,122
-2016-05-03,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,123
-2016-07-06,"SJL","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,124
-2016-01-28,"SJE","EAR","z80.3","fhx breast","Y","VUS","ATM","c.5626C>T","MRI",NA,778.27,125
-2015-12-21,"MCNE","JKP","z80.3","fhx breast","Y","VUS","MLH1","c.1487C>T","MRI",NA,778.27,126
-2016-01-25,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,127
-2016-05-19,"MCE","JKP","z84.1","fhx kidney","Y","Negative","N/A","N/A","None",NA,0,128
-2015-09-23,"SJE","JKP","z80.3","fhx breast",NA,"Positive","MUTYH","c.1187G>A","MUTYH",NA,350,129
-2015-11-05,"MCE","JKP","z80.0","fhx colon",NA,"N/A","N/A","N/A","None",NA,0,130
-2016-02-10,"SJE","EAR","c50.919","breast","Y","VUS","RINT1","c.2085C>A","None",NA,0,131
-2015-10-08,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","cscope",NA,350,132
-2016-01-25,"SJE","EAR","c50.919","breast","Y","VUS","NBN","c.664T>C","None",NA,0,133
-2016-07-27,"MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-F",NA,0,134
-2015-09-16,"SJE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,135
-2016-05-05,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,136
-2016-07-26,"MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-A",NA,0,137
-2015-10-07,"SJH","EAR","z80.41","fhx ovary",NA,"N/A","N/A","N/A","None",NA,0,138
-2016-04-11,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,139
-2016-03-24,"SJE","EAR","c50.919","breast","Y","VUS","FANCC","c.178T>C","MRI",NA,778.27,140
-2015-10-06,"CBS","JKP","z80.0","fhx colon",NA,"Positive","MSH2","del exons 1-6","Lynch",NA,3771.44,141
-2015-10-28,"SJE","EAR","c50.919","breast",NA,"VUS","ATM","c.2289T>A","MRI",NA,778.27,142
-2016-05-17,"MCE","JKP","z85.3","breast","Y","Negative","N/A","N/A","cscope",NA,350,143
-2016-07-07,"MCNE","EHT","z80.3","fhx breast","Y","Positive","MUTYH","c.1187G>A","MUTYH, MRI",NA,1128.27,144
-2016-03-14,"SJE","EAR","c50.919","breast","Y","Positive/VUS","BRCA2/MUTYH","c.6074_6075delTC/c.1276C>T","cscope",NA,350,145
-2016-03-22,"MCNE","JKP","z80.3","fhx breast","Y","VUS","SMAD4","c.20C>T","None",NA,0,146
-2015-10-27,"MCE","JKP","c46.72","melanoma",NA,"VUS","POLE","c.2090C>G","None",NA,0,147
-2015-11-03,"SJE","EAR","z80.3","fhx breast",NA,"Negative","N/A","N/A","None",NA,0,148
-2015-12-10,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,149
-2016-04-14,"SJE","EAR","z85.3","breast","Y","N/A","N/A","N/A","None",NA,0,150
-2016-01-07,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,151
-2016-01-13,"MCE","JKP","z84.81","single site","Y","Negative","N/A","N/A","None",NA,0,152
-2016-06-02,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,153
-2015-10-28,"SJE","EAR","z80.3","fhx breast",NA,"N/A","N/A","N/A","None",NA,0,154
-2015-12-28,"SJE","EAR","z80.0","fhx colon",NA,"Negative","N/A","N/A","None",NA,0,155
-2016-07-06,"MCNE","EHT","c18.9","colon","Y","pending","pending","pending","pending-I",NA,0,156
-2015-11-05,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,157
-2016-02-09,"SJE","EAR","z80.3","fhx breast","Y","VUS","CHEK2","c.1427C>T","MRI",NA,778.27,158
-2016-02-29,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,159
-2015-07-08,"SJE","ES","z80.3","fhx breast",NA,"Negative","N/A","N/A","None",NA,0,160
-2015-06-05,"SJE","MEO","gastric","gastric",NA,"Negative","N/A","N/A","None",NA,0,161
-2015-07-23,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","None",NA,0,162
-2016-01-14,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,163
-2016-02-17,"SJL","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI, cscope",NA,1128.27,164
-2016-06-09,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,165
-2015-09-16,"SJE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,166
-2016-03-24,"MCE","JKP","c18.9","colon","Y","Positive","CHEK2","c.1368dupA","CHEK2",NA,1056.99,167
-2016-03-29,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,168
-2016-02-24,"MCE","JKP","c18.9","colon","Y","N/A","N/A","N/A","None",NA,0,169
-2016-02-04,"SJE","EAR","c50.919","breast","Y","VUS","PALB2","c/1250C>A","None",NA,0,170
-2015-08-13,"SJE","MEO","c50.919","breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,171
-2015-10-21,"SJE","EAR","z80.3","fhx breast",NA,"Positive","BRCA2","c.5035delA","BRCA",NA,2245.77,172
-2016-06-06,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI, cscope",NA,1128.27,173
-2016-05-26,"MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-G",NA,0,174
-2016-06-22,"SJE","EAR","z80.3","fhx breast","Y","pending","pending","pending","pending-I",NA,0,175
-2016-05-11,"MCE","JKP","z80.0","fhx colon","Y","pending","pending","pending","pending-I",NA,0,176
-2015-11-11,"SJE","EAR","z80.3","fhx breast",NA,"N/A","N/A","N/A","None",NA,0,177
-2015-10-15,"MCE","JKP","z80.3","fhx breast",NA,"Positive","BRCA2","c.5073dupA","BRCA",NA,2245.77,178
-2015-10-20,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,179
-2015-12-18,"SJE","EAR","c18.9","colon","Y","Negative","N/A","N/A","None",NA,0,180
-2016-06-08,"MCE","JKP","z80.3","fhx breast","Y","VUS/VUS/VUS/VUS","AXIN2/CEBPA/FLCN/MET","c.1369G>A/ c.724G>A/c.1198C>T/c.1039G>A","MRI",NA,778.27,181
-2016-04-12,"SJC","EAR","z80.0","fhx colon","Y","N/A","N/A","N/A","None",NA,0,182
-2016-01-19,"SJE","EAR","c18.9","colon","Y","Negative","N/A","N/A","None",NA,0,183
-2016-03-08,"SJE","EAR","z85.42","uterine","Y","Positive","MSH6","c.3699_3702delAGAA","Lynch",NA,3771.44,184
-2016-06-16,"MCE","JKP","z80.3","fhx breast","Y","VUS/VUS/VUS","BRCA2/CTNNA1/STK11","c.7610A>G/c.410G>A/c.116G>T","None",NA,0,185
-2015-08-05,"CBS","MEO","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,186
-2016-06-09,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,187
-2016-07-28,"SJE","EAR","c56.9","ovary","Y","pending","pending","pending","pending",NA,0,188
-2016-05-02,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,189
-2015-11-24,"SJE","EAR","c50.919","breast","Y","Positive","TP53","c.818G>A","Li Fraumeni",NA,10097.33,190
-2015-07-01,"Flaget","MEO","k63.5","polyps",NA,"Positive","APC","3927del5","FAP",NA,3437.53,191
-2016-07-06,"SJL","EAR","c18.9","colon","Y","Negative","N/A","N/A","None",NA,0,192
-2016-04-27,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,193
-2016-04-27,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,194
-2016-03-07,"SJE","EAR","z85.3","breast","Y","Positive","PALB2","c.3549C>G","PALB2",NA,1550.49,195
-2016-05-11,"SJE","EAR","z85.3","breast","Y","Positive","CHEK2","c.444+1G>A","CHEK2",NA,1056.99,196
-2015-10-22,"SJE","EAR","c18.9","colon","Y","VUS","APC","c.4372C>T","cscope",NA,350,197
-2015-07-10,"MCNE","MEO","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,198
-2016-07-19,"MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-A",NA,0,199
-2016-06-28,"MCE","JKP","z80.0","fhx colon","Y","VUS","MET","c.901A>G","None",NA,0,200
-2016-01-14,"SJE","EAR","c50.919","breast","Y","VUS","PMS2","c.1429T>A","MRI",NA,778.27,201
-2016-05-23,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,202
-2016-06-30,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,203
-2015-12-29,"SJE","EAR","c50.919","breast",NA,"VUS","STK11","c.894C>A","MRI",NA,778.27,204
-2016-06-16,"MCNE","EHT","c18.9","colon","Y","VUS","BMPR1A","c.253A>G","cscope",NA,350,205
-2016-05-12,"SJE","EAR","z80.49","fhx uterine","Y","N/A","N/A","N/A","None",NA,0,206
-2016-04-20,"SJL","EAR","z80.3","fhx breast","Y","VUS","PMS2","c.1004A>G","MRI",NA,778.27,207
-2016-01-19,"SJE","EAR","z80.0","fhx pancreatic","Y","Negative","N/A","N/A","None",NA,0,208
-2016-07-06,"SJL","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,209
-2016-07-06,"SJL","EAR","z85.3","breast","Y","N/A","N/A","N/A","BRCA",NA,2245.77,210
-2016-05-26,"SJE","EAR","c50.919","breast","Y","Positive","BRCA1","c.5136G>A","BRCA",NA,2245.77,211
-2016-01-13,"MCE","JKP","z85.0","colon","Y","N/A","N/A","N/A","None",NA,0,212
-2016-07-28,"SJE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-F",NA,0,213
-2016-01-19,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,214
-2015-06-23,"MCE","JKP","c50.919","breast",NA,"Positive","BRCA2","c.5722_5723delCT","BRCA",NA,2245.77,215
-2016-05-25,"SJE","EAR","z80.0","fhx colon","Y","Negative","N/A","N/A","MRI",NA,778.27,216
-2016-02-11,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,217
-2016-06-15,"MCNE","EHT","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,218
-2015-11-18,"SJL","EAR","c50.919","breast",NA,"VUS","MSH6","c.94G>T","MRI",NA,778.27,219
-2016-05-04,"SJE","EAR","z80.3","fhx breast","Y","VUS","ATM","c.8860T>C","None",NA,0,220
-2016-06-16,"MCE","JKP","z80.3","fhx breast","Y","VUS/VUS","BAP1/BUB1B","c.1212C>G/c.2785G>A","MRI",NA,778.27,221
-2015-12-02,"SJE","JKP","c50.919","breast","P","Negative","N/A","N/A","MRI",NA,778.27,222
-2016-05-31,"SJE","EAR","c50.919","breast","Y","VUS","DIS3LW","c.1192C>A","None",NA,0,223
-2015-12-22,"MCE","JKP","z80.3","fhx breast","P","N/A","N/A","N/A","None",NA,0,224
-2016-03-15,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,225
-2016-06-08,"SJE","EAR","z80.41","fhx ovary","Y","VUS/VUS","BRCA2/CDH1","c.10253T>A/c.1417G>A","None",NA,0,226
-2016-06-08,"SJE","EAR","z80.41","fhx ovary","Y","VUS","ATM","c.3155C>T","None",NA,0,227
-2016-06-01,"SJH","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,228
-2015-12-03,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","None",NA,0,229
-2016-04-27,"SJE","EAR","z80.3","fhx breast","Y","VUS","PMS2","c.961G>A","MRI",NA,778.27,230
-2016-05-26,"SJE","EAR","c56.9","ovary","Y","Negative","N/A","N/A","cscope",NA,350,231
-2016-07-28,"SJE","EAR","c50.919","breast","Y","pending","pending","pending","pending-F",NA,0,232
-2015-10-29,"SJE","EAR","c50.919","breast",NA,"Positive","CHEK2","c.483_185del","CHEK2",NA,1056.99,233
-2016-05-09,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,234
-2016-02-24,"SJE","EAR","c83.33","lymphoma","Y","N/A","N/A","N/A","None",NA,0,235
-2016-05-19,"SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","None",NA,0,236
-2015-11-12,"MCE","JKP","z80.3","fhx breast",NA,"Positive","PMS2","c.400C>T","Lynch",NA,3771.44,237
-2015-10-06,"SJE","EAR","c50.919","breast",NA,"N/A","N/A","N/A","None",NA,0,238
-2016-04-19,"MCNE","EHT","z85.3","breast","Y","VUS/VUS","RECQL4/WRN","c.215C>T/c.3875C>A","None",NA,0,239
-2016-06-08,"MCE","JKP","c50.919","breast","Y","VUS","DICER1","c.2437-4T>C","MRI",NA,778.27,240
-2016-04-11,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,241
-2016-06-28,"SJE","EAR","z80.0","fhx colon","Y","Negative","N/A","N/A","None",NA,0,242
-2015-10-13,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","None",NA,0,243
-2016-01-28,"MCE","JKP","z85.43","ovary","Y","Negative","N/A","N/A","cscope",NA,350,244
-2016-06-22,"SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None",NA,0,245
-2016-02-23,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,246
-2016-05-05,"SJC","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,247
-2016-05-25,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,248
-2015-06-12,"SJE","MEO","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,249
-2015-05-20,"SJE","JKP","c18.9","colon",NA,"Negative","N/A","N/A","None",NA,0,250
-2016-02-03,"Flaget","JKP","c18.9","colon","Y","Negative","N/A","N/A","cscope","CRC AT 39",350,251
-2016-04-19,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,252
-2016-04-26,"SJE","EAR","c50.919","breast","Y","N/A","N/A","N/A","None",NA,0,253
-2015-10-27,"MCE","JKP","z80.41","fhx ovary","P","VUS","ATM","c.1837G>T","None",NA,0,254
-2016-02-24,"SJE","EAR","z80.3","fhx breast","Y","Positive","BRCA1","c.3748G>T","BRCA",NA,2245.77,255
-2016-01-21,"SJE","EAR","c56.9","ovary","P","N/A","N/A","N/A","None",NA,0,256
-2016-05-19,"MCE","JKP","z80.0","fhx colon","Y","VUS","WRN","c.3875C>A","None",NA,0,257
-2016-01-05,"SJE","EAR","k63.5","polyps","Y","Positive","APC","del exons promoter 1B","APC",NA,3437.53,258
-2015-11-11,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,259
-2016-07-21,"SJE","EAR","c25.9","pancreas","Y","VUS","RECQL4","c.1652C>T","None",NA,0,260
-2015-12-17,"SJE","EAR","z80.3","fhx breast","P","N/A","N/A","N/A","MRI",NA,778.27,261
-2016-01-20,"SJL","EAR","E83.11","hemochromatosis","Y","Positive","HFE","c282Y homozygote","HFE",NA,419.31,262
-2016-06-08,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,263
-2016-06-15,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,264
-2015-10-14,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,265
-2016-02-04,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,266
-2016-06-03,"MCE","JKP","z80.9","fhx melanoma","Y","Positive","MITF","c.952G>A","Derm",NA,155.4,267
-2015-06-03,"SJE","JKP","c50.919","breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,268
-2016-01-11,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,269
-2015-11-10,"SJE","EAR","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,270
-2016-06-20,"SJE","EAR","c50.919","breast","Y","VUS/VUS","DICER1/SMARCA4","c.3778G>A/c.2853G>T","MRI",NA,778.27,271
-2016-04-06,"Flaget","JKP","z80.0","fhx colon","Y","VUS","AXIN2/CEBPA/FLCN/MET","c.1685C>T","cscope",NA,350,272
-2016-01-12,"SJE","EAR","z84.81","single site","Y","Negative","N/A","N/A","None",NA,0,273
-2016-04-14,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,274
-2015-12-14,"SJE","EAR","osteo","osteosarcoma",NA,"Negative","N/A","N/A","None",NA,0,275
-2016-02-04,"SJE","EAR","z84.81","breast","Y","Negative","N/A","N/A","None",NA,0,276
-2015-10-08,"SJE","EAR","z80.0","fhx colon",NA,"Negative","N/A","N/A","None",NA,0,277
-2015-10-08,"SJE","EAR","z80.0","fhx colon",NA,"Negative","N/A","N/A","None",NA,0,278
-2015-09-05,"CBS","JKP","c64.9","kidney",NA,"Negative","N/A","N/A","None",NA,0,279
-2015-07-29,"SJE","MEO","c18.9","colon",NA,"N/A","N/A","N/A","None",NA,0,280
-2015-10-07,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","None",NA,0,281
-2016-04-12,"SJC","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,282
-2016-06-23,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,283
-2015-11-10,"SJE","EAR","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,284
-2015-07-28,"MCE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","None",NA,0,285
-2015-06-02,"CBS","PB","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,286
-2015-07-29,"SJE","MEO","oc mel","ocular melanoma",NA,"N/A","N/A","N/A","None",NA,0,287
-2016-05-31,"SJE","EAR","z80.3","fhx breast","Y","Positive","FANCC","c.37C>T","MRI","MRI",778.27,288
-2016-01-14,"MCE","JKP","z80.41","fhx ovary","Y","Negative","N/A","N/A","None",NA,0,289
-2015-09-03,"MCE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","None",NA,0,290
-2016-06-30,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,291
-2016-02-22,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,292
-2016-06-30,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,293
-2016-05-17,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,294
-2016-06-21,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,295
-2015-11-03,"SJE","EAR","z80.3","fhx breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,296
-2015-08-27,"MCE","JKP","z80.3","fhx breast",NA,"VUS","ATM","c.3014A>G","None",NA,0,297
-2016-07-11,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,298
-2015-12-10,"SJE","EAR","z80.0","fhx colon",NA,"N/A","N/A","N/A","None",NA,0,299
-2015-07-09,"CBS","PB","c25.9","pancreas",NA,"Negative","N/A","N/A","None",NA,0,300
-2015-12-09,"MCE","JKP","c18.9","colon","P","VLP","MUTYH","c.932-2A>G","MUTYH",NA,350,301
-2016-05-10,"SJE","EAR","z80.3","fhx breast","Y","pending","pending","pending","MRI",NA,778.27,302
-2016-07-28,"MCE","JKP","z80.41","fhx ovary","Y","pending","pending","pending","pending-F",NA,0,303
-2016-03-23,"SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,304
-2015-06-12,"SJE","MEO","z80.3","fhx breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,305
-2016-07-20,"SJL","EAR","c50.919","breast","Y","pending","pending","pending","pending-A",NA,0,306
-2016-03-02,"SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None",NA,0,307
-2016-02-11,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,308
-2016-01-04,"SJE","EAR","c16.9","stomach","Y","Positive","FANCC","c.1642C>T","MRI","MRI",778.27,309
-2016-01-05,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,310
-2015-09-30,"SJE","EAR","c50.919","breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,311
-2016-07-26,"SJE","EAR","z85.3","breast","Y","pending","pending","pending","pending-F",NA,0,312
-2016-06-02,"SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None",NA,0,313
-2016-04-12,"SJC","EAR","c18.9","colon","Y","N/A","N/A","N/A","None",NA,0,314
-2016-06-29,"SJE","EAR","z80.3","fhx breast","Y","VUS","POLD1","c.1174G>A","MRI",NA,778.27,315
-2016-02-03,"Flaget","JKP","z85.3","breast","Y","VUS/VUS/VUS","PALB2/PMS2/POLE","c.298C>T/c.1004A>G/c.2087C>T","None",NA,0,316
-2016-04-18,"SJE","EAR","c50.919","breast","Y","VUS/VUS","POLE/TSC2","c.4879C>T/c.5265C>T","MRI",NA,778.27,317
-2015-12-03,"SJE","EAR","z80.3","fhx breast",NA,"N/A","N/A","N/A","None",NA,0,318
-2015-10-20,"SJE","EAR","lung","lung",NA,"N/A","N/A","N/A","None",NA,0,319
-2016-04-07,"SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","MRI",NA,778.27,320
-2016-07-13,"SJE","EAR","c18.9","colon","Y","VUS","MSH6","c.3079G>C","None",NA,0,321
-2015-11-19,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,322
-2016-06-30,"MCE","JKP","z85.3","breast","Y","Negative","N/A","N/A","None",NA,0,323
-2016-07-07,"MCNE","EHT","z80.0","fhx colon","Y","pending","pending","pending","pending-A",NA,0,324
-2016-05-24,"SJE","EAR","c50.919","breast","Y","VUS","MSH6","c.107C>T","None",NA,0,325
-2016-05-11,"MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,326
-2016-07-08,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,327
-2016-02-03,"SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,328
-2016-06-30,"MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-I",NA,0,329
-2015-11-25,"SJE","EAR","c50.919","breast",NA,"Positive","BRCA2","c.2957delA","BRCA",NA,2245.77,330
-2016-02-01,"SJE","EAR","c50.919","breast","P","Negative","N/A","N/A","MRI",NA,778.27,331
-2015-05-20,"SJE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","None",NA,0,332
-2016-03-17,"MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI",NA,778.27,333
-2016-06-30,"SJE","EAR","z84.81","single site","Y","pending","pending","pending","pending-M",NA,0,334
-2016-03-03,"MCE","JKP","z80.0","fhx colon","Y","Negative","N/A","N/A","cscope",NA,350,335
-2016-05-04,"SJH","EAR","c50.919","breast","Y","VUS","FANCC","c.178G>A","MRI",NA,778.27,336
-2016-06-09,"SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","MRI",NA,778.27,337
-2016-05-09,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,338
-2016-02-17,"SJC","EAR","z85.3","breast","Y","Negative","N/A","N/A","None",NA,0,339
-2015-07-08,"SJE","ES","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,340
-2016-07-27,"SJE","EAR","c50.919","breast","Y","pending","pending","pending","pending-F",NA,0,340
-2016-07-27,"SJE","EAR","c18.9","colon","Y","pending","pending","pending","pending-F",NA,0,341
-2016-01-12,"MCE","JKP","c50.919","breast","Y","VUS/VUS","MUTYH/PALB2","c.1258C>A/c.656A>G","MRI",NA,778.27,342
-2016-06-24,"MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-G",NA,0,343
-2015-12-16,"MCE","JKP","z80.3","fhx breast","P","Negative","N/A","N/A","MRI",NA,778.27,344
-2016-03-10,"MCNE","EHT","z80.3","fhx breast","Y","Positive","CHEK2","c.349A>G","CHEK2","MRI",1056.99,345
-2016-02-25,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,346
-2015-12-29,"CBS","JKP","c43.72","melanoma",NA,"VUS","POLE","c.2683G>A","None",NA,0,347
-2015-05-20,"SJE","JKP","c50.919","breast",NA,"VUS","PTEN","c.-1171C>T","MRI",NA,778.27,348
-2016-06-06,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,349
-2016-05-04,"Flaget","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","None",NA,0,350
-2015-11-11,"SJE","EAR","c18.9","colon",NA,"Negative","N/A","N/A","None",NA,0,351
-2015-07-30,"MCNE","MEO","z80.3","fhx breast",NA,"Negative","N/A","N/A","None",NA,0,352
-2015-12-29,"SJE","EAR","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,353
-2015-11-30,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,354
-2016-04-20,"Flaget","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,355
-2015-07-29,"SJE","MEO","c50.919","breast",NA,"VUS","CHEK2","ex2_14dup","MRI",NA,778.27,356
-2016-03-31,"SJL","EAR","z80.0","fhx colon","Y","N/A","N/A","N/A","cscope",NA,350,357
-2016-06-22,"MCE","JKP","c18.9","colon","Y","pending","pending","pending","pending-I",NA,0,358
-2016-01-12,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,359
-2016-07-14,"MCE","JKP","c18.9","colon","Y","Negative","N/A","N/A","Lynch",NA,3771.44,360
-2015-08-05,"SJH","JKP","c50.919","breast",NA,"Negative","N/A","N/A","None",NA,0,361
-2016-03-28,"MCE","JKP","z85.00","colon","Y","Negative","N/A","N/A","cscope","20+ POLYPS",350,362
-2016-04-19,"SJE","EAR","z84.81","single site","Y","Negative","N/A","N/A","None",NA,0,363
-2016-03-15,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,364
-2016-04-08,"SJE","EAR","c50.919","breast","Y","Positive","BRCA2","c.7976G>A","BRCA",NA,2245.77,365
-2016-04-06,"Flaget","JKP","z80.0","fhx colon","Y","Negative","N/A","N/A","cscope",NA,350,366
-2015-11-19,"SJE","EAR","c50.919","breast","P","Positive","BRCA1","c.4524G>A","BRCA",NA,2245.77,367
-2016-01-20,"SJL","EAR","c18.9","colon","Y","Positive","MSH2","del exons 1-6","Lynch",NA,3771.44,368
-2016-06-16,"MCNE","EHT","z80.3","fhx breast","Y","pending","pending","pending","pending-A",NA,0,369
-2016-06-23,"SJE","EAR","z80.41","fhx ovary","Y","Positive","BRCA2","c.6275_6276delTT","BRCA",NA,2245.77,370
-2015-10-08,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,371
-2016-07-14,"SJE","EAR","c50.919","breast","Y","VUS/VUS","ATM/BRIP1","c.3689A>G/c.139C>G","None",NA,0,372
-2016-02-23,"Flaget","JKP","c18.9","colon","Y","VUS/VUS","APC/AXIN2","c.3299C>Tc.1685C>T","cscope","CRC AT 45",350,373
-2016-06-06,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,374
-2015-11-12,"SJE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,375
-2016-01-07,"SJE","EAR","z85.85","thyroid","Y","Negative","N/A","N/A","MRI",NA,778.27,376
-2015-12-08,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,377
-2016-06-22,"SJE","EAR","z85.3","breast","Y","pending","pending","pending","pending-A",NA,0,378
-2015-11-18,"SJL","EAR","z80.3","fhx breast",NA,"N/A","N/A","N/A","MRI, cscope",NA,1128.27,379
-2016-04-18,"SJE","EAR","c50.919","breast","Y","Positive","BRCA1","c.631+2T>G","BRCA",NA,2245.77,380
-2015-12-21,"MCNE","JKP","z80.3","fhx breast","P","VUS","ATM","c.3925G>A","None",NA,0,381
-2015-04-23,"SJE","ES","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,382
-2016-04-12,"MCE","JKP","c50.919","breast","Y","Positive","RAD51D","c.185C>A","RAD51D",NA,624,383
-2015-12-09,"SJE","EAR","z80.3","fhx breast","P","Negative","N/A","N/A","MRI",NA,778.27,384
-2016-02-12,"SJE","EAR","c18.9","colon","Y","VUS/VUS","RET/TSC1","c.1921G>A/c.850C>T","MRI, cscope","CRC AT 29",1128.27,385
-2016-03-02,"SJC","EAR","c56.9","ovary","Y","Negative","N/A","N/A","None",NA,0,386
-2015-10-14,"SJH","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,387
-2015-12-03,"SJE","EAR","c50.919","breast","P","Negative","N/A","N/A","cscope",NA,350,388
-2015-10-28,"MCE","JKP","z80.3","fhx breast",NA,"VUS","MSH2","c.1171G>A","None",NA,0,389
-2016-06-28,"SJE","EAR","c25.9","pancreas","Y","Negative","N/A","N/A","None",NA,0,390
-2016-06-08,"MCE","JKP","z80.3","fhx breast","Y","VUS","BRCA1","c.442-34C>T","MRI",NA,778.27,391
-2016-03-03,"MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,392
-2016-07-21,"SJE","EAR","c18.9","colon","Y","pending","pending","pending","pending-A",NA,0,393
-2016-06-16,"MCNE","EHT","z80.0","fhx colon","Y","Negative","N/A","N/A","cscope","FDR at 45",350,394
-2015-11-18,"SJL","EAR","z80.3","fhx breast",NA,"Positive","BRCA2","c.6757_6758del","BRCA",NA,2245.77,395
-2015-07-07,"MCE","JKP","z80.3","fhx breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,396
-2015-06-16,"MCE","JKP","c50.919","breast",NA,"VUS","CHEK2","c.751A>T","None",NA,0,397
-2015-06-15,"SJE","MEO","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,398
-2015-11-05,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,399
-2016-01-29,"SJE","EAR","z85.3","breast","Y","N/A","N/A","N/A","None",NA,0,400
-2015-10-12,"SJE","EAR","c50.919","breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,401
-2016-01-06,"SJE","EAR","c50.919","breast","Y","Positive","PALB2","c.3113G>A","PALB2","MRI",1550.49,402
-2016-02-24,"MCE","JKP","z80.0","fhx colon","Y","VUS/VUS/VUS","ACVRL1/HRAS/POLE","c.1228C>T/c.498C>A/c.4736G>A","cscope","2FDR",350,403
-2016-04-05,"SJE","EAR","z80.0","fhx colon","Y","Positive","MSH2","del exons 1-6","Lynch",NA,3771.44,404
-2015-10-28,"MCE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,405
-2015-10-21,"SJL","EAR","c50.919","breast",NA,"N/A","N/A","N/A","MRI",NA,778.27,406
-2016-03-10,"SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None",NA,0,407
-2016-07-25,"SJE","EAR","c50.919","breast","Y","pending","pending","pending","pending-I",NA,0,408
-2016-04-20,"Flaget","JKP","z84.81","single site","Y","Negative","N/A","N/A","None",NA,0,409
-2016-03-30,"MCE","JKP","z80.3","fhx breast","Y","VUS/VUS","MSH6/TMEM127","c.59C>T/c.413T>C","MRI",NA,778.27,410
-2016-05-11,"MCE","JKP","z80.3","fhx breast","Y","VUS","KIF1B","c.2848G>A","None",NA,0,411
-2016-07-19,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,412
-2016-04-07,"SJE","EAR","z85.3","breast","Y","N/A","N/A","N/A","None",NA,0,413
-2015-12-21,"MCNE","JKP","z80.41","fhx ovary",NA,"VUS","ATM","c.4561G>C","None",NA,0,414
-2016-05-31,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None",NA,0,415
-2016-06-15,"SJC","EAR","z85.43","ovary","Y","Positive","MSH6","c.3939_3957dupTCAAAAGGGACATAGAAAA","Lynch",NA,3771.44,416
-2015-10-14,"SJE","EAR","c18.9","colon",NA,"Negative","N/A","N/A","None",NA,0,417
-2016-04-07,"SJE","EAR","c65.1","renal pelvis","Y","Negative","N/A","N/A","None",NA,0,418
-2015-07-22,"SJE","JKP","c50.919","breast",NA,"VUS","NBN","c.1405G>T","MRI",NA,778.27,419
-2015-11-03,"SJE","EAR","c56.9","ovary",NA,"VUS/VUS","MSH2/PALB2","c.1730T>C/c.2356C>T","None",NA,0,420
-2016-07-12,"MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-A",NA,0,421
-2016-03-08,"MCNE","EHT","z85.3","breast","Y","pending","pending","pending","None",NA,0,422
-2016-03-01,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,423
-2016-02-25,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI",NA,778.27,424
-2015-12-09,"MCE","JKP","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,425
-2016-03-09,"SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,426
-2015-09-10,"MCE","JKP","c18.9","colon",NA,"Negative","N/A","N/A","None",NA,0,427
-2015-12-02,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,428
-2015-10-29,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,429
-2016-06-16,"SJE","EAR","z85.43","ovary","Y","Positive","ATM","c.8147T>C","ATM",NA,704.85,430
-2016-03-14,"SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI",NA,778.27,431
-2015-07-29,"SJE","MEO","c50.919","breast",NA,"Negative","N/A","N/A","None",NA,0,432
-2016-01-07,"SJE","EAR","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,433
-2015-07-07,"MCE","JKP","z80.41","fhx ovary","Y","VUS/VUS","ATM/RAD50","c5821G>C/c.1663A>G","None",NA,0,434
-2016-04-05,"SJE","EAR","z80.41","fhx ovary","Y","VUS","PIK3CA","c.1130C>G","MRI",NA,778.27,435
-2016-06-02,"MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None",NA,0,436
-2015-07-01,"SJE","ES","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,437
-2015-10-06,"CBS","JKP","c50.919","breast",NA,"Negative","N/A","N/A","MRI",NA,778.27,438
+"DOS","Location","Counselor","ICD10","Indication","Progeny","Result","Gene","Mutation","Needs","X","Cost","PatID"
+"4/8/14","SJE","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,39
+"6/5/14","WCEC","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,32
+"6/25/14","Flaget","PB","c50.919","breast","","positive","BRCA1","del exon 17","BRCA","",2245.77,424
+"7/9/14","WCEC","ES","c50.919","breast","","positive","CHEK2","c.591delA","CHEK2","",1056.99,58
+"7/9/14","SJE","ES","c50.919","breast","","N/A","N/A","N/A","","",NA,292
+"7/9/14","SJE","ES","c50.919","breast","","N/A","N/A","N/A","","",NA,423
+"7/9/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,42
+"7/9/14","SJE","PB","z80.3","fhx breast","","N/A","N/A","N/A","","",NA,399
+"7/17/14","WCEC","PB","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,14
+"7/22/14","WCEC","LA","c50.919","breast","","Negative","N/A","N/A","","",NA,65
+"7/23/14","SJE","ES","z80.3","fhx breast","","N/A","N/A","N/A","","",NA,365
+"7/23/14","SJE","ES","c18.9","colon","","Negative","N/A","N/A","","",NA,353
+"7/23/14","Flaget","LA","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,50
+"7/23/14","SJE","PB","c50.919","breast","","N/A","N/A","N/A","","",NA,53
+"7/23/14","SJE","PB","c20","colon","","Negative","N/A","N/A","","",NA,77
+"7/25/14","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,250
+"7/29/14","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,511
+"8/19/14","CBS","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,495
+"8/27/14","SJE","ES","c50.919","breast","","N/A","N/A","N/A","","",NA,175
+"8/27/14","SJE","ES","c25.9","pancreas","","Negative","N/A","N/A","","",NA,93
+"8/27/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,406
+"8/27/14","SJE","ES","c54.1","uterine","","VUS","PMS2","c.2350G>A","","",NA,322
+"8/27/14","SJE","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,221
+"9/10/14","SJE","ES","c50.919","breast","","VUS","MSH6","c.3283C>T","","",NA,62
+"9/16/14","CBS","LA","c18.9","colon","","positive","MLH1","EX1_3'UTRdel","Lynch","",3771.44,491
+"9/18/14","WCEC","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,46
+"9/24/14","SJE","ES","z80.3","fhx breast","","positive","CHEK2","c.591delA","CHEK2","",1056.99,366
+"9/24/14","SJE","ES","z80.3","fhx breast","","N/A","N/A","N/A","","",NA,350
+"9/24/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,55
+"9/24/14","SJE","ES","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,240
+"10/7/14","CBS","LA","c50.919","breast","","N/A","N/A","N/A","","",NA,532
+"10/8/14","SJE","ES","z80.0","fhx GI","","N/A","N/A","N/A","","",NA,524
+"10/8/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,81
+"10/8/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,431
+"10/8/14","SJE","ES","c64.9","kidney","","VUS/VUS","MSH2/TSC2","c.1706A>G/c.5383C>T","","",NA,252
+"10/21/14","CBS","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,275
+"10/22/14","SJE","ES","c50.919","breast","","N/A","N/A","N/A","","",NA,445
+"10/22/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,362
+"10/23/14","Flaget","PB","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,164
+"10/30/14","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,420
+"11/4/14","CBS","LA","c18.9","colon","","N/A","N/A","N/A","","",NA,489
+"11/12/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,9
+"11/12/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,37
+"11/12/14","SJE","ES","c56.9","ovary","","VUS","PMS2","p.V717M","","",NA,358
+"11/19/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,95
+"12/1/14","WCEC","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,499
+"12/3/14","CBS","LA","c50.919","breast","","VUS","BARD1","c.1977A>G","","",NA,331
+"12/9/14","Flaget","PB","c50.919","breast","","VUS","BRIP1","c.3096T>G","","",NA,332
+"12/10/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,111
+"12/10/14","SJE","ES","c50.919","breast","","VUS","BRCA2","c.2206G>A","","",NA,336
+"12/10/14","WCEC","PB","z80.3","fhx breast","","N/A","N/A","N/A","","",NA,372
+"12/16/14","CBS","PB","c56.9","ovary","","positive","MSH6","c.2906_2907delAT","Lynch","",3771.44,105
+"12/16/14","CBS","PB","z80.0","fhx GI","","Negative","N/A","N/A","","",NA,104
+"12/16/14","CBS","PB","c50.919","breast","","VUS","ATM","c.1229T>C","","",NA,228
+"12/17/14","SJE","ES","z80.0","fhx GI","","positive/VUS","MSH2/MSH2","del exons 1-6/c.2006-4G>A","Lynch","",3771.44,79
+"12/17/14","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,325
+"1/5/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,57
+"1/6/15","CBS","LA","c50.919","breast","","Negative","N/A","N/A","","",NA,471
+"1/7/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,295
+"1/7/15","CBS","PB","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,179
+"1/13/15","WCEC","ES","c54.1","uterine","","Negative","N/A","N/A","","",NA,185
+"1/14/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,162
+"1/14/15","WCEC","ES","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,422
+"1/16/15","WCEC","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,129
+"1/20/15","CBS","PB","c56.9","ovary","","Negative","N/A","N/A","","",NA,231
+"1/22/15","WCEC","ES","k63.5","polyps","","Negative","N/A","N/A","","",NA,161
+"1/23/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,369
+"1/28/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,31
+"2/3/15","WCEC","LA","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,195
+"2/4/15","Flaget","PB","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,99
+"2/11/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,534
+"2/13/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,391
+"2/25/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,473
+"2/26/15","WCEC","PB","c18.9","colon","","VUS","MLH1","c.1321G>A","","",NA,403
+"3/11/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,404
+"3/11/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,182
+"3/11/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,488
+"3/11/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,540
+"3/11/15","WCEC","ES","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,458
+"3/11/15","WCEC","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,302
+"3/11/15","SJE","ES","c18.9","colon","","N/A","N/A","N/A","","",NA,214
+"3/12/15","WCEC","ES","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,382
+"3/17/15","WCEC","ES","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,226
+"3/17/15","WCEC","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,396
+"3/25/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,485
+"4/7/15","CBS","LA","c18.9","colon","","VLP/VUS","PTEN/TP53","c.1061C>A/c.847C>T","PTEN","",3160.44,373
+"4/8/15","CBS","LA","c50.919","breast","","VUS/VUS","NBN/PTEN","c.786C>A/c.-1060C>G","","",NA,497
+"4/8/15","SJE","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,139
+"4/21/15","CBS","LA","c50.919","breast","","VUS","RAD51D","c.394G>A","","",NA,481
+"4/22/15","SJE","ES","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,375
+"4/23/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,469
+"5/5/15","CBS","LA","c50.919","breast","","N/A","N/A","N/A","","",NA,444
+"5/6/15","Flaget","PB","c50.919","breast","","positive","PALB2","c.3113G>A","PALB2","",1550.49,244
+"5/6/15","Flaget","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,103
+"5/13/15","SJE","ES","c50.919","breast","","Positive","PALB2","c.3244_3245del","PALB2","",1550.49,59
+"5/13/15","SJE","ES","c50.919","breast","","positive/VUS","PALB2/CDH1","c.3244_3245del/c.88C>A","PALB2","",1550.49,59
+"5/13/15","SJE","ES","c50.919","breast","","N/A","N/A","N/A","","",NA,248
+"5/13/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,293
+"5/13/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,321
+"5/13/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,184
+"5/15/15","SJE","MEO","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,109
+"5/20/15","SJE","JKP","c50.919","breast","","VUS","PTEN","c.-1171C>T","MRI","",778.27,432
+"5/20/15","SJE","JKP","c18.9","colon","","Negative","N/A","N/A","None","",0,305
+"5/20/15","SJE","JKP","c50.919","breast","","Negative","N/A","N/A","None","",0,411
+"5/27/15","SJE","PB","c20","colon","","N/A","N/A","N/A","","",NA,280
+"6/2/15","CBS","PB","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,347
+"6/2/15","WCEC","PB","c50.919","breast","","Negative","N/A","N/A","","",NA,503
+"6/2/15","CBS","PB","c50.919","breast","","VUS","PTEN","c.-930G>A","","",NA,347
+"6/3/15","SJH","ES","c56.9","ovary","","Negative","N/A","N/A","","",NA,526
+"6/3/15","SJE","JKP","c50.919","breast","","N/A","N/A","N/A","MRI","",778.27,326
+"6/3/15","Flaget","PB","50.921","breast","","Negative","N/A","N/A","","",NA,367
+"6/4/15","WCEC","PB","z80.41","fhx ovary","","VUS","TP53","c.214C>T","","",NA,136
+"6/5/15","SJE","MEO","c50.919","breast","","N/A","N/A","N/A","MRI","",778.27,64
+"6/5/15","SJE","MEO","c1639","gastric","","Negative","N/A","N/A","None","",0,198
+"6/6/15","MCNE","MEO","c50.919","breast","","N/A","N/A","N/A","cscope","",350,114
+"6/6/15","SJE","MEO","z80.0","fhx GI","","N/A","N/A","N/A","MRI","",778.27,72
+"6/11/15","WCEC","ES","z80.3","fhx breast","","Negative","N/A","N/A","","",NA,210
+"6/12/15","SJE","MEO","z80.3","fhx breast","","N/A","N/A","N/A","MRI","",778.27,377
+"6/12/15","SJE","MEO","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,304
+"6/15/15","SJE","MEO","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,492
+"6/16/15","MCE","JKP","c50.919","breast","","VUS","CHEK2","c.751A>T","None","",0,490
+"6/23/15","MCE","JKP","c50.919","breast","","Positive","BRCA2","c.5722_5723delCT","BRCA","",2245.77,264
+"7/1/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,542
+"7/1/15","SJE","ES","c18.9","colon","","VUS","MSH6","c.1474A>G","","",NA,102
+"7/1/15","Flaget","MEO","k63.5","polyps","","Positive","APC","3927del5","FAP","",3437.53,234
+"7/7/15","MCE","JKP","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,143
+"7/7/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,487
+"7/7/15","MCE","JKP","z80.41","fhx ovary","Y","VUS/VUS","ATM/RAD50","c5821G>C/c.1663A>G","None","",0,538
+"7/7/15","CBS","PB","c50.919","breast","","N/A","N/A","N/A","","",NA,246
+"7/7/15","CBS","PB","c25.9","pancreas","","Negative","N/A","N/A","","",NA,368
+"7/8/15","SJE","ES","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,419
+"7/8/15","SJE","ES","z80.3","fhx breast","","Negative","N/A","N/A","None","",0,197
+"7/8/15","WCEC","ES","c50.919","breast","","Negative","N/A","N/A","","",NA,197
+"7/8/15","SJE","ES","c50.919","breast","","VUS","MSH2","c.2576_2584delAATCGCAAG","","",NA,514
+"7/9/15","CBS","PB","c25.9","pancreas","","Negative","N/A","N/A","None","",0,368
+"7/10/15","MCNE","MEO","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,242
+"7/10/15","MCNE","MEO","z80.0","fhx GI","Y","Negative","N/A","N/A","None","",0,40
+"7/21/15","CBS","MEO","c50.919","breast","","N/A","N/A","N/A","MRI","",778.27,90
+"7/21/15","CBS","MEO","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,4
+"7/21/15","CBS","MEO","c56.9","ovary","Y","Negative","N/A","N/A","None","",0,23
+"7/22/15","SJE","JKP","c50.919","breast","","VUS","NBN","c.1405G>T","MRI","",778.27,519
+"7/23/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","None","",0,199
+"7/28/15","MCE","JKP","c50.919","breast","","Negative","N/A","N/A","None","",0,346
+"7/28/15","MCE","JKP","z80.41","fhx ovary","Y","Negative","N/A","N/A","None","",0,17
+"7/29/15","SJE","MEO","c50.919","breast","","VUS","CHEK2","ex2_14dup","MRI","",778.27,440
+"7/29/15","SJE","MEO","c18.9","colon","","N/A","N/A","N/A","None","",0,341
+"7/29/15","SJE","MEO","c69.9","ocular melanoma","","N/A","N/A","N/A","None","",0,348
+"7/29/15","SJE","MEO","c50.919","breast","","Negative","N/A","N/A","None","",0,536
+"7/30/15","MCNE","MEO","z80.3","fhx breast","","Negative","N/A","N/A","None","",0,436
+"8/5/15","SJH","JKP","c50.919","breast","","Negative","N/A","N/A","None","",0,447
+"8/5/15","CBS","MEO","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,227
+"8/13/15","SJE","MEO","c50.919","breast","","N/A","N/A","N/A","MRI","",778.27,208
+"8/27/15","MCE","JKP","z80.3","fhx breast","","VUS","ATM","c.3014A>G","None","",0,361
+"9/1/15","CBS","JKP","c18.9","colon","","Negative","N/A","N/A","Lynch","",3771.44,45
+"9/3/15","MCE","JKP","c50.919","breast","","Negative","N/A","N/A","None","",0,352
+"9/5/15","CBS","JKP","c64.9","kidney","","Negative","N/A","N/A","None","",0,340
+"9/9/15","SJE","JKP","c50.919","breast","","Negative","N/A","N/A","None","",0,117
+"9/10/15","MCE","JKP","c18.9","colon","","Negative","N/A","N/A","None","",0,529
+"9/16/15","SJE","JKP","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,167
+"9/16/15","SJE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,203
+"9/23/15","SJE","JKP","z80.3","fhx breast","","Positive","MUTYH","c.1187G>A","MUTYH","",350,158
+"9/30/15","SJE","EAR","c50.919","breast","","N/A","N/A","N/A","MRI","",778.27,384
+"10/2/15","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,3
+"10/6/15","SJE","EAR","c50.919","breast","","N/A","N/A","N/A","None","",0,289
+"10/6/15","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,38
+"10/6/15","CBS","JKP","z80.0","fhx GI","","Positive","MSH2","del exons 1-6","Lynch","",3771.44,173
+"10/6/15","CBS","JKP","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,41
+"10/6/15","CBS","JKP","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,543
+"10/7/15","SJE","EAR","k63.5","polyps","","Negative","N/A","N/A","cscope","",350,60
+"10/7/15","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,27
+"10/7/15","SJH","EAR","z80.41","fhx ovary","","N/A","N/A","N/A","None","",0,170
+"10/7/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","None","",0,342
+"10/8/15","SJE","EAR","z80.0","fhx GI","","Negative","N/A","N/A","None","",0,338
+"10/8/15","SJE","EAR","z80.0","fhx GI","","Negative","N/A","N/A","None","",0,339
+"10/8/15","SJE","EAR","c50.919","breast","Y","VUS","ATM","c.86A>C","None","",0,7
+"10/8/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","cscope","",350,163
+"10/8/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,457
+"10/12/15","SJE","EAR","c50.919","breast","","N/A","N/A","N/A","MRI","",778.27,496
+"10/13/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,91
+"10/13/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","None","",0,297
+"10/14/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,320
+"10/14/15","SJH","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,476
+"10/14/15","SJE","EAR","c18.9","colon","","Negative","N/A","N/A","None","",0,517
+"10/15/15","MCE","JKP","z80.3","fhx breast","","Positive","BRCA2","c.5073dupA","BRCA","",2245.77,217
+"10/20/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,218
+"10/20/15","SJE","EAR","c34.9","lung","","N/A","N/A","N/A","None","",0,393
+"10/20/15","SJE","EAR","c56.9","ovary","Y","Negative","N/A","N/A","None","",0,16
+"10/21/15","SJE","EAR","z80.3","fhx breast","","Positive","BRCA2","c.5035delA","BRCA","",2245.77,209
+"10/21/15","SJL","EAR","c50.919","breast","","N/A","N/A","N/A","MRI","",778.27,504
+"10/22/15","SJE","EAR","z80.0","fhx GI","","N/A","N/A","N/A","cscope","",350,48
+"10/22/15","SJE","EAR","c18.9","colon","Y","VUS","APC","c.4372C>T","cscope","",350,241
+"10/27/15","MCE","JKP","c46.72","melanoma","","VUS","POLE","c.2090C>G","None","",0,181
+"10/27/15","MCE","JKP","z80.41","fhx ovary","P","VUS","ATM","c.1837G>T","None","",0,309
+"10/28/15","SJE","EAR","c50.919","breast","","VUS","ATM","c.2289T>A","MRI","",778.27,174
+"10/28/15","SJE","EAR","z80.3","fhx breast","","N/A","N/A","N/A","None","",0,190
+"10/28/15","MCE","JKP","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,502
+"10/28/15","MCE","JKP","z80.3","fhx breast","","VUS","MSH2","c.1171G>A","None","",0,478
+"10/29/15","SJE","EAR","c50.919","breast","","Positive","CHEK2","c.483_185del","CHEK2","",1056.99,284
+"10/29/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,531
+"10/29/15","MCE","JKP","c50.919","breast","","Positive","CHEK2","c.1100del","CHEK2","",1056.99,94
+"11/3/15","SJE","EAR","z80.3","fhx breast","","N/A","N/A","N/A","MRI","",778.27,360
+"11/3/15","SJE","EAR","z80.3","fhx breast","","Negative","N/A","N/A","None","",0,183
+"11/3/15","SJE","EAR","c56.9","ovary","","VUS/VUS","MSH2/PALB2","c.1730T>C/c.2356C>T","None","",0,520
+"11/5/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,193
+"11/5/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,493
+"11/5/15","MCE","JKP","z80.0","fhx GI","","N/A","N/A","N/A","None","",0,159
+"11/10/15","SJE","EAR","z80.41","fhx ovary","Y","Positive","MSH2","del exons 1-6","Lynch","",3771.44,25
+"11/10/15","SJE","EAR","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,328
+"11/10/15","SJE","EAR","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,345
+"11/11/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,314
+"11/11/15","SJE","EAR","z80.3","fhx breast","","N/A","N/A","N/A","None","",0,216
+"11/11/15","SJE","EAR","c18.9","colon","","Negative","N/A","N/A","None","",0,435
+"11/11/15","MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,124
+"11/11/15","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,125
+"11/11/15","MCE","JKP","c50.919","breast","Y","VUS","BARD1","c.659T>C","None","",0,34
+"11/12/15","MCE","JKP","z80.3","fhx breast","","Positive","PMS2","c.400C>T","Lynch","",3771.44,288
+"11/12/15","SJE","JKP","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,462
+"11/17/15","SJE","EAR","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,140
+"11/18/15","SJL","EAR","z80.3","fhx breast","","Positive","BRCA2","c.6757_6758del","BRCA","",2245.77,486
+"11/18/15","SJL","EAR","c50.919","breast","","VUS","MSH6","c.94G>T","MRI","",778.27,268
+"11/18/15","SJL","EAR","z80.3","fhx breast","","N/A","N/A","N/A","MRI, cscope","",1128.27,466
+"11/18/15","MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,10
+"11/18/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","None","",0,134
+"11/19/15","SJE","EAR","c50.919","breast","P","Positive","BRCA1","c.4524G>A","BRCA","",2245.77,453
+"11/19/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,397
+"11/24/15","SJE","EAR","c50.919","breast","Y","Positive","TP53","c.818G>A","Li Fraumeni","",10097.33,233
+"11/25/15","SJE","EAR","c50.919","breast","","Positive","BRCA2","c.2957delA","BRCA","",2245.77,409
+"11/30/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,438
+"11/30/15","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,86
+"11/30/15","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,132
+"11/30/15","SJE","JKP","z80.41","fhx ovary","","Negative","N/A","N/A","None","",0,21
+"12/1/15","SJE","EAR","c18.9","colon","","N/A","N/A","N/A","cscope","",350,82
+"12/2/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,530
+"12/2/15","SJE","JKP","c50.919","breast","P","Negative","N/A","N/A","MRI","",778.27,271
+"12/3/15","SJE","EAR","c50.919","breast","P","Negative","N/A","N/A","cscope","",350,477
+"12/3/15","SJE","EAR","z80.3","fhx breast","","N/A","N/A","N/A","None","",0,392
+"12/3/15","SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","None","",0,11
+"12/3/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","None","",0,279
+"12/8/15","MCE","JKP","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,464
+"12/8/15","MCE","JKP","z80.3","fhx breast","Y","VUS/VUS","ATM/ATM","c.7004C>T/c.7174C>T","MRI","",778.27,76
+"12/8/15","MCE","JKP","z80.3","fhx breast","","VUS/VUS","ALK/RECQL4","c.4573_4575delAAG/c.2849C>G","None","",0,49
+"12/9/15","SJE","EAR","z80.3","fhx breast","P","Negative","N/A","N/A","MRI","",778.27,472
+"12/9/15","MCE","JKP","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,527
+"12/9/15","MCE","JKP","c18.9","colon","P","VLP","MUTYH","c.932-2A>G","MUTYH","",350,370
+"12/10/15","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,184
+"12/10/15","SJE","EAR","z80.0","fhx GI","","N/A","N/A","N/A","None","",0,364
+"12/14/15","SJE","EAR","c41.9","osteosarcoma","","Negative","N/A","N/A","None","",0,335
+"12/16/15","SJL","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,145
+"12/16/15","MCE","JKP","z80.3","fhx breast","P","Negative","N/A","N/A","MRI","",778.27,427
+"12/17/15","SJE","EAR","z80.3","fhx breast","P","N/A","N/A","N/A","MRI","",778.27,316
+"12/17/15","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,106
+"12/18/15","SJE","EAR","c18.9","colon","Y","Negative","N/A","N/A","None","",0,219
+"12/21/15","MCNE","JKP","z80.3","fhx breast","Y","Positive","BRCA2","c.5350_5351delAA","BRCA","",2245.77,118
+"12/21/15","MCNE","JKP","k63.5","polyps","Y","Negative","N/A","N/A","cscope","",350,113
+"12/21/15","MCNE","JKP","z80.3","fhx breast","Y","VUS","MLH1","c.1487C>T","MRI","",778.27,155
+"12/21/15","MCNE","JKP","z80.3","fhx breast","P","VUS","ATM","c.3925G>A","None","",0,468
+"12/21/15","MCNE","JKP","z80.41","fhx ovary","","VUS","ATM","c.4561G>C","None","",0,513
+"12/22/15","MCE","JKP","z80.3","fhx breast","P","N/A","N/A","N/A","None","",0,273
+"12/28/15","SJE","EAR","z80.0","fhx GI","","Negative","N/A","N/A","None","",0,191
+"12/28/15","MCE","JKP","c50.919","breast","Y","VUS","PALB2","c.94C>T","None","",0,73
+"12/29/15","SJE","EAR","z80.3","fhx breast","","Negative","N/A","N/A","MRI","",778.27,437
+"12/29/15","SJE","EAR","c50.919","breast","","VUS","STK11","c.894C>A","MRI","",778.27,253
+"12/29/15","CBS","JKP","c18.9","colon","Y","Positive","MLH1","c.545+3A>G","Lynch","",3771.44,69
+"12/29/15","CBS","JKP","c43.72","melanoma","","VUS","POLE","c.2683G>A","None","",0,430
+"12/30/15","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,5
+"1/4/16","SJE","EAR","c16.9","stomach","Y","Positive","FANCC","c.1642C>T","MRI","MRI",778.27,381
+"1/5/16","SJE","EAR","k63.5","polyps","Y","Positive","APC","del exons promoter 1B","APC","",3437.53,313
+"1/5/16","SJE","EAR","z85.0","colon","Y","Negative","N/A","N/A","cscope","30 adenos at 28",350,6
+"1/5/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,383
+"1/6/16","SJE","EAR","c50.919","breast","Y","Positive","PALB2","c.3113G>A","PALB2","MRI",1550.49,498
+"1/7/16","SJE","EAR","c50.919","breast","","Negative","N/A","N/A","MRI","",778.27,537
+"1/7/16","SJE","EAR","z85.85","thyroid","Y","Negative","N/A","N/A","MRI","",778.27,463
+"1/7/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,187
+"1/11/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,327
+"1/12/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,443
+"1/12/16","SJE","EAR","z84.81","single site","Y","Negative","N/A","N/A","None","",0,333
+"1/12/16","MCE","JKP","c50.919","breast","Y","VUS/VUS","MUTYH/PALB2","c.1258C>A/c.656A>G","MRI","",778.27,425
+"1/13/16","SJE","EAR","z85.0","colon","Y","Negative","N/A","N/A","MRI, cscope","",1128.27,61
+"1/13/16","MCE","JKP","z85.0","colon","Y","N/A","N/A","N/A","None","",0,261
+"1/13/16","MCE","JKP","z84.81","single site","Y","Negative","N/A","N/A","None","",0,188
+"1/14/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,200
+"1/14/16","SJE","EAR","c50.919","breast","Y","VUS","PMS2","c.1429T>A","MRI","",778.27,247
+"1/14/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,26
+"1/14/16","MCE","JKP","c50.919","breast","Y","VUS","BRCA1","p.T1640A","MRI","",778.27,78
+"1/14/16","MCE","JKP","z80.41","fhx ovary","Y","Negative","N/A","N/A","None","",0,351
+"1/18/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,138
+"1/19/16","SJE","EAR","z84.81","single site","Y","Positive","MSH2","5'UTR_exdel","Lynch","",3771.44,30
+"1/19/16","SJE","EAR","c18.9","colon","Y","Negative","N/A","N/A","None","",0,223
+"1/19/16","SJE","EAR","z80.0","fhx GI","Y","Negative","N/A","N/A","None","",0,257
+"1/19/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,263
+"1/19/16","MCE","JKP","c50.919","breast","Y","VUS","BRIP1","c.413T>C","None","",0,83
+"1/20/16","SJL","EAR","E83.11","hemochromatosis","Y","Positive","HFE","c282Y homozygote","HFE","",419.31,317
+"1/20/16","SJL","EAR","c18.9","colon","Y","Positive","MSH2","del exons 1-6","Lynch","",3771.44,454
+"1/21/16","SJE","EAR","c50.919","breast","Y","Positive","BRCA1","ex2del","BRCA","",2245.77,47
+"1/21/16","SJE","EAR","c56.9","ovary","P","N/A","N/A","N/A","None","",0,311
+"1/21/16","SJE","EAR","z85.43","ovary","Y","N/A","N/A","N/A","None","",0,75
+"1/21/16","MCE","JKP","z80.3","fhx breast","Y","VUS","BRIP1","1936-5_1936-4delTCinsG","MRI","",778.27,101
+"1/25/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,112
+"1/25/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,156
+"1/25/16","SJE","EAR","c50.919","breast","Y","VUS","NBN","c.664T>C","None","",0,165
+"1/27/16","SJE","EAR","z80.3","fhx breast","Y","Positive","ATM","c.1339C>T","MRI","",778.27,1
+"1/27/16","MCE","JKP","z80.0","fhx GI","Y","Negative","N/A","N/A","cscope","20+ adenos at 71",350,19
+"1/28/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,51
+"1/28/16","SJE","EAR","z80.3","fhx breast","Y","VUS","ATM","c.5626C>T","MRI","",778.27,154
+"1/28/16","MCE","JKP","z85.43","ovary","Y","Negative","N/A","N/A","cscope","",350,298
+"1/29/16","SJE","EAR","z85.3","breast","Y","N/A","N/A","N/A","None","",0,494
+"2/1/16","SJE","EAR","c50.919","breast","P","Negative","N/A","N/A","MRI","",778.27,410
+"2/1/16","MCE","JKP","z80.3","fhx breast","Y","VUS","ATM","c.4066A>G","MRI","",778.27,22
+"2/3/16","SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","MRI","",778.27,407
+"2/3/16","Flaget","JKP","c18.9","colon","Y","Negative","N/A","N/A","cscope","CRC AT 39",350,306
+"2/3/16","Flaget","JKP","z85.43","ovary","Y","Positive/VUS","MUTYH/MUTYH/RET","c.544C>T/c.544C>T/c.139G>A","MAP","",3339.1,98
+"2/3/16","Flaget","JKP","z85.3","breast","Y","VUS/VUS/VUS","PALB2/PMS2/POLE","c.298C>T/c.1004A>G/c.2087C>T","None","",0,389
+"2/4/16","SJE","EAR","z84.81","breast","Y","Negative","N/A","N/A","None","",0,337
+"2/4/16","SJE","EAR","c50.919","breast","Y","VUS","PALB2","c/1250C>A","None","",0,207
+"2/4/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,323
+"2/4/16","MCE","JKP","z84.81","single site","Y","Negative","N/A","N/A","None","",0,70
+"2/9/16","SJE","EAR","z80.3","fhx breast","Y","VUS","CHEK2","c.1427C>T","MRI","",778.27,194
+"2/10/16","SJE","EAR","c50.919","breast","Y","VUS","RINT1","c.2085C>A","None","",0,160
+"2/11/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,266
+"2/11/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,380
+"2/12/16","SJE","EAR","c18.9","colon","Y","VUS/VUS","RET/TSC1","c.1921G>A/c.850C>T","MRI, cscope","CRC AT 29",1128.27,474
+"2/17/16","SJL","EAR","z80.3","fhx breast","Y","VUS","MLH1","c.955G>A","MRI","",778.28,33
+"2/17/16","SJL","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI, cscope","",1128.27,201
+"2/17/16","SJC","EAR","z85.3","breast","Y","Negative","N/A","N/A","None","",0,418
+"2/17/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None","",0,29
+"2/17/16","MCE","JKP","z85.3","breast","Y","VUS","BRCA2","c.6560C>T/c.8179G>T","None","",0,121
+"2/17/16","MCE","JKP","c50.919","breast","Y","VUS/VUS/VUS","ATM/FLCN/TMEM127","c.1009C>T/c,580C>T/c.619G>A","None","",0,128
+"2/18/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,131
+"2/22/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,355
+"2/22/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,2
+"2/23/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,300
+"2/23/16","Flaget","JKP","c18.9","colon","Y","VUS/VUS","APC/AXIN2","c.3299C>Tc.1685C>T","cscope","CRC AT 45",350,460
+"2/24/16","SJE","EAR","z80.3","fhx breast","Y","Positive","BRCA1","c.3748G>T","BRCA","",2245.77,310
+"2/24/16","SJE","EAR","c83.33","lymphoma","Y","N/A","N/A","N/A","None","",0,286
+"2/24/16","MCE","JKP","z80.0","fhx GI","Y","VUS/VUS/VUS","ACVRL1/HRAS/POLE","c.1228C>T/c.498C>A/c.4736G>A","cscope","2FDR",350,500
+"2/24/16","MCE","JKP","c18.9","colon","Y","N/A","N/A","N/A","None","",0,206
+"2/24/16","MCE","JKP","c50.919","breast","Y","VUS","RAD50","c.785T>G","None","",0,36
+"2/25/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,429
+"2/25/16","SJE","EAR","c50.919","breast","Y","Positive","FANCC","c.67delG","MRI","",778.27,116
+"2/25/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,115
+"2/25/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,525
+"2/29/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,196
+"3/1/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,523
+"3/1/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,100
+"3/2/16","SJC","EAR","c56.9","ovary","Y","Negative","N/A","N/A","None","",0,475
+"3/2/16","SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None","",0,379
+"3/3/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,137
+"3/3/16","MCE","JKP","z80.0","fhx GI","Y","Negative","N/A","N/A","cscope","",350,414
+"3/3/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None","",0,482
+"3/3/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,135
+"3/7/16","SJE","EAR","c20.0","colon","Y","Negative","N/A","N/A","None","",0,126
+"3/7/16","SJE","EAR","z85.3","breast","Y","Positive","PALB2","c.3549C>G","PALB2","",1550.49,238
+"3/8/16","SJE","EAR","z85.42","uterine","Y","Positive","MSH6","c.3699_3702delAGAA","Lynch","",3771.44,224
+"3/8/16","MCNE","EHT","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,56
+"3/8/16","MCNE","EHT","z85.3","breast","Y","pending","pending","pending","None","",0,522
+"3/9/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,528
+"3/10/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,52
+"3/10/16","SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None","",0,505
+"3/10/16","MCNE","EHT","z80.3","fhx breast","Y","Positive","CHEK2","c.349A>G","CHEK2","MRI",1056.99,428
+"3/10/16","MCNE","EHT","z84.81","single site","Y","Negative","N/A","N/A","None","",0,84
+"3/14/16","SJE","EAR","c50.919","breast","Y","Positive/VUS","BRCA2/MUTYH","c.6074_6075delTC/c.1276C>T","BRCA, cscope","",2595.77,178
+"3/14/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,535
+"3/14/16","SJE","EAR","z85.0","colon","Y","N/A","N/A","N/A","None","",0,8
+"3/15/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,274
+"3/15/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,450
+"3/17/16","MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,412
+"3/22/16","MCNE","JKP","z80.3","fhx breast","Y","VUS","SMAD4","c.20C>T","None","",0,180
+"3/23/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,376
+"3/24/16","SJE","EAR","c50.919","breast","Y","VUS","FANCC","c.178T>C","MRI","",778.27,172
+"3/24/16","MCE","JKP","c18.9","colon","Y","Positive","CHEK2","c.1368dupA","CHEK2","",1056.99,204
+"3/28/16","MCE","JKP","z85.00","colon","Y","Negative","N/A","N/A","cscope","20+ POLYPS",350,448
+"3/29/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None","",0,205
+"3/30/16","MCE","JKP","z80.3","fhx breast","Y","VUS/VUS","MSH6/TMEM127","c.59C>T/c.413T>C","MRI","",778.27,508
+"3/31/16","SJL","EAR","z80.0","fhx GI","Y","N/A","N/A","N/A","cscope","",350,441
+"4/1/16","SJE","EAR","c18.9","colon","Y","Positive","MSH2","c.942+3A>T","Lynch","",3771.44,35
+"4/4/16","SJE","EAR","c50.919","breast","Y","N/A","N/A","N/A","cscope","",350,127
+"4/4/16","SJE","EAR","z80.3","fhx breast","Y","VUS","BRCA2","c.7448G>A","MRI","",778.27,87
+"4/4/16","MCE","JKP","c50.919","breast","Y","VUS","MSH6","c.893G>A","MRI","",778.27,67
+"4/5/16","SJE","EAR","z80.0","fhx GI","Y","Positive","MSH2","del exons 1-6","Lynch","",3771.44,501
+"4/5/16","SJE","EAR","z80.41","fhx ovary","Y","VUS","PIK3CA","c.1130C>G","MRI","",778.27,539
+"4/6/16","Flaget","JKP","z80.0","fhx GI","Y","Negative","N/A","N/A","cscope","",350,452
+"4/6/16","Flaget","JKP","z80.0","fhx GI","Y","VUS","AXIN2/CEBPA/FLCN/MET","c.1685C>T","cscope","",350,330
+"4/7/16","SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","MRI","",778.27,394
+"4/7/16","SJE","EAR","z85.3","breast","Y","N/A","N/A","N/A","None","",0,512
+"4/7/16","SJE","EAR","c65.1","renal pelvis","Y","Negative","N/A","N/A","None","",0,518
+"4/8/16","SJE","EAR","c50.919","breast","Y","Positive","BRCA2","c.7976G>A","BRCA","",2245.77,451
+"4/11/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,97
+"4/11/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,148
+"4/11/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,294
+"4/11/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,171
+"4/12/16","SJC","EAR","c18.9","colon","Y","N/A","N/A","N/A","None","",0,387
+"4/12/16","SJC","EAR","z80.0","fhx GI","Y","N/A","N/A","N/A","None","",0,222
+"4/12/16","SJC","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,343
+"4/12/16","MCE","JKP","c50.919","breast","Y","Positive","RAD51D","c.185C>A","RAD51D","",624,470
+"4/14/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,334
+"4/14/16","SJE","EAR","z85.3","breast","Y","N/A","N/A","N/A","None","",0,186
+"4/18/16","SJE","EAR","c50.919","breast","Y","Positive","BRCA1","c.631+2T>G","BRCA","",2245.77,467
+"4/18/16","SJE","EAR","c50.919","breast","Y","VUS/VUS","POLE/TSC2","c.4879C>T/c.5265C>T","MRI","",778.27,390
+"4/18/16","SJE","EAR","c50.919","breast","Y","N/A","N/A","N/A","None","",0,63
+"4/19/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,307
+"4/19/16","SJE","EAR","z84.81","single site","Y","Negative","N/A","N/A","None","",0,449
+"4/19/16","MCNE","EHT","z85.3","breast","Y","VUS/VUS","RECQL4/WRN","c.215C>T/c.3875C>A","None","",0,290
+"4/20/16","SJL","EAR","z80.3","fhx breast","Y","VUS","PMS2","c.1004A>G","MRI","",778.27,256
+"4/20/16","SJL","EAR","c50.919","breast","Y","VUS","NBN","c.547G>A","None","",0,144
+"4/20/16","Flaget","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,439
+"4/20/16","Flaget","JKP","z84.81","single site","Y","Negative","N/A","N/A","None","",0,507
+"4/21/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,24
+"4/26/16","SJE","EAR","z80.3","fhx breast","Y","VUS","POLD1","c.427G>A","MRI","",778.27,133
+"4/26/16","SJE","EAR","c50.919","breast","Y","N/A","N/A","N/A","None","",0,308
+"4/27/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,236
+"4/27/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,237
+"4/27/16","SJE","EAR","z80.3","fhx breast","Y","VUS","PMS2","c.961G>A","MRI","",778.27,281
+"4/28/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","MRI","",778.27,147
+"4/28/16","SJE","EAR","c50.919","breast","Y","VUS","MUTYH","c.1508G>A","MRI","",778.27,130
+"4/28/16","MCE","JKP","200.37","lymphoma","Y","VUS/VUS","APC/SDHAF2","c.388A>G/c.385C>T","None","",0,150
+"5/2/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,232
+"5/3/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,152
+"5/4/16","SJH","EAR","c50.919","breast","Y","VUS","FANCC","c.178G>A","MRI","",778.27,415
+"5/4/16","SJE","EAR","z80.3","fhx breast","Y","VUS","ATM","c.8860T>C","None","",0,269
+"5/4/16","Flaget","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,434
+"5/5/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,168
+"5/5/16","SJE","EAR","c50.919","breast","Y","VUS","ATM","c.7574T>G","MRI, cscope","",1128.27,66
+"5/5/16","SJC","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,301
+"5/9/16","SJE","EAR","z85.85","thyroid","Y","VUS","MRE11A","c.794A>C","cscope","",350,44
+"5/9/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,417
+"5/9/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,285
+"5/10/16","SJE","EAR","z80.3","fhx breast","Y","pending","pending","pending","MRI","",778.27,371
+"5/11/16","SJE","EAR","z85.3","breast","Y","Positive","CHEK2","c.444+1G>A","CHEK2","",1056.99,239
+"5/11/16","MCE","JKP","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,402
+"5/11/16","MCE","JKP","z80.3","fhx breast","Y","VUS","KIF1B","c.2848G>A","None","",0,509
+"5/11/16","MCE","JKP","z80.0","fhx GI","Y","pending","pending","pending","pending-I","",0,215
+"5/12/16","SJE","EAR","z80.49","fhx uterine","Y","N/A","N/A","N/A","None","",0,255
+"5/17/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,357
+"5/17/16","MCE","JKP","z85.3","breast","Y","Negative","N/A","N/A","cscope","",350,176
+"5/19/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,68
+"5/19/16","SJE","EAR","z84.81","single site","Y","N/A","N/A","N/A","None","",0,119
+"5/19/16","SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","None","",0,107
+"5/19/16","SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","None","",0,287
+"5/19/16","MCE","JKP","z84.1","fhx kidney","Y","Negative","N/A","N/A","None","",0,157
+"5/19/16","MCE","JKP","z80.0","fhx GI","Y","VUS","WRN","c.3875C>A","None","",0,312
+"5/23/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,249
+"5/24/16","SJE","EAR","c18.9","colon","Y","Positive","MSH2","del exons 1-6","Lynch","",3771.44,85
+"5/24/16","SJE","EAR","c50.919","breast","Y","VUS","MSH6","c.107C>T","None","",0,401
+"5/24/16","SJE","EAR","c64.9","kidney","Y","Positive","VHL","del exon 2","VHL","",3453.15,12
+"5/25/16","SJE","EAR","z80.0","fhx GI","Y","Negative","N/A","N/A","MRI","",778.27,265
+"5/25/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,303
+"5/26/16","SJE","EAR","c50.919","breast","Y","Positive","BRCA1","c.5136G>A","BRCA","",2245.77,260
+"5/26/16","SJE","EAR","c56.9","ovary","Y","Negative","N/A","N/A","cscope","",350,282
+"5/26/16","MCE","JKP","c18.9","colon","Y","Negative","N/A","N/A","None","",0,96
+"5/26/16","MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-G","",0,212
+"5/31/16","SJE","EAR","z80.3","fhx breast","Y","Positive","FANCC","c.37C>T","MRI","MRI",778.27,349
+"5/31/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,515
+"5/31/16","SJE","EAR","c50.919","breast","Y","VUS","DIS3LW","c.1192C>A","None","",0,272
+"6/1/16","SJH","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,278
+"6/2/16","SJE","EAR","z80.3","fhx breast","Y","VUS/VUS","CHEK2/NF1","c.1556G>A/c.3436G>A","MRI","",778.27,110
+"6/2/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,189
+"6/2/16","SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None","",0,386
+"6/2/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,541
+"6/2/16","MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-I","",0,71
+"6/3/16","MCE","JKP","z80.9","fhx melanoma","Y","Positive","MITF","c.952G>A","Derm","",155.4,324
+"6/6/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,461
+"6/6/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,433
+"6/6/16","SJE","EAR","z80.3","fhx breast","Y","pending","pending","pending","None","",0,15
+"6/6/16","SJE","EAR","k63.5","polyps","Y","pending","pending","pending","pending-A","",0,20
+"6/6/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI, cscope","",1128.27,211
+"6/7/16","SJE","EAR","z80.3","fhx breast","Y","Positive","BRCA2","c.6074_6075delTC","BRCA","",2245.77,43
+"6/7/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,13
+"6/8/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,318
+"6/8/16","SJE","EAR","z80.41","fhx ovary","Y","VUS","ATM","c.3155C>T","None","",0,277
+"6/8/16","SJE","EAR","z80.41","fhx ovary","Y","VUS/VUS","BRCA2/CDH1","c.10253T>A/c.1417G>A","None","",0,276
+"6/8/16","MCE","JKP","c50.919","breast","Y","VUS","DICER1","c.2437-4T>C","MRI","",778.27,291
+"6/8/16","MCE","JKP","z80.3","fhx breast","Y","VUS","BRCA1","c.442-34C>T","MRI","",778.27,480
+"6/8/16","MCE","JKP","z80.3","fhx breast","Y","VUS/VUS/VUS/VUS","AXIN2/CEBPA/FLCN/MET","c.1369G>A/ c.724G>A/c.1198C>T/c.1039G>A","MRI","",778.27,220
+"6/9/16","SJE","EAR","z80.41","fhx ovary","Y","Negative","N/A","N/A","MRI","",778.27,416
+"6/9/16","SJE","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,229
+"6/9/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,202
+"6/13/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,88
+"6/14/16","SJE","EAR","z85.00","colon","Y","VUS","MUTYH","c.346C>T","None","",0,151
+"6/14/16","MCNE","EHT","c50.919","breast","Y","N/A","N/A","N/A","None","",0,108
+"6/15/16","SJC","EAR","z85.43","ovary","Y","Positive","MSH6","c.3939_3957dupTCAAAAGGGACATAGAAAA","Lynch","",3771.44,516
+"6/15/16","SJL","EAR","c50.919","breast","Y","VUS","PMS2","c.1004A>G","None","",0,18
+"6/15/16","MCNE","EHT","c50.919","breast","Y","Positive/VUS/VUS","BRCA1/CDK4/PTEN","c.68_69delAG/p.H296Y/c.-1206G>A","BRCA","",2245.77,28
+"6/15/16","MCNE","EHT","c50.919","breast","Y","Negative","N/A","N/A","None","",0,267
+"6/15/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","None","",0,319
+"6/16/16","SJE","EAR","z85.43","ovary","Y","Positive","ATM","c.8147T>C","ATM","",704.85,533
+"6/16/16","MCNE","EHT","z80.0","fhx GI","Y","Negative","N/A","N/A","cscope","FDR at 45",350,484
+"6/16/16","MCNE","EHT","c18.9","colon","Y","VUS","BMPR1A","c.253A>G","cscope","",350,254
+"6/16/16","MCNE","EHT","z80.3","fhx breast","Y","pending","pending","pending","pending-A","",0,455
+"6/16/16","MCE","JKP","z80.3","fhx breast","Y","VUS/VUS","BAP1/BUB1B","c.1212C>G/c.2785G>A","MRI","",778.27,270
+"6/16/16","MCE","JKP","z80.3","fhx breast","Y","VUS/VUS/VUS","BRCA2/CTNNA1/STK11","c.7610A>G/c.410G>A/c.116G>T","None","",0,225
+"6/20/16","SJE","EAR","c50.919","breast","Y","VUS/VUS","DICER1/SMARCA4","c.3778G>A/c.2853G>T","MRI","",778.27,329
+"6/21/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,359
+"6/22/16","SJE","EAR","z85.3","breast","Y","Negative","N/A","N/A","None","",0,299
+"6/22/16","SJE","EAR","z85.3","breast","Y","VUS/VUS/VUS","BRIP1/FANCC/POLD1","c.2914G>A/c.934A>G/c.784G>A","None","",0,89
+"6/22/16","SJE","EAR","z85.3","breast","Y","pending","pending","pending","pending-A","",0,465
+"6/22/16","SJE","EAR","z80.3","fhx breast","Y","pending","pending","pending","pending-I","",0,213
+"6/22/16","MCE","JKP","c18.9","colon","Y","pending","pending","pending","pending-I","",0,442
+"6/23/16","SJE","EAR","z80.41","fhx ovary","Y","Positive","BRCA2","c.6275_6276delTT","BRCA","",2245.77,456
+"6/23/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,344
+"6/24/16","MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-G","",0,426
+"6/28/16","SJE","EAR","c25.9","pancreas","Y","Negative","N/A","N/A","None","",0,479
+"6/28/16","SJE","EAR","z80.0","fhx GI","Y","Negative","N/A","N/A","None","",0,296
+"6/28/16","MCE","JKP","z80.0","fhx GI","Y","VUS","MET","c.901A>G","None","",0,245
+"6/28/16","MCE","JKP","c25.9","pancreas","Y","VUS/VUS","POLE/SDHB","c.940T>G/c.158G>A","None","",0,123
+"6/29/16","SJE","EAR","z80.3","fhx breast","Y","VUS","POLD1","c.1174G>A","MRI","",778.27,388
+"6/29/16","MCE","JKP","z80.0","fhx GI","Y","Positive/VUS","MUTYH/MSH2","c.536A>G/c.1730T>C","MUTYH","",350,120
+"6/30/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,354
+"6/30/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,356
+"6/30/16","SJE","EAR","z84.81","single site","Y","pending","pending","pending","pending-M","",0,413
+"6/30/16","MCE","JKP","c50.919","breast","Y","Negative","N/A","N/A","MRI","",778.27,251
+"6/30/16","MCE","JKP","z85.3","breast","Y","Negative","N/A","N/A","None","",0,398
+"6/30/16","MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-I","",0,408
+"7/5/16","MCNE","EHT","c50.919","breast","Y","VUS","BMPR1A","c.1216C>T","MRI","",778.27,54
+"7/6/16","SJL","EAR","z85.3","breast","Y","N/A","N/A","N/A","BRCA","",2245.77,259
+"7/6/16","SJL","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,153
+"7/6/16","SJL","EAR","z80.3","fhx breast","Y","N/A","N/A","N/A","None","",0,258
+"7/6/16","SJL","EAR","c18.9","colon","Y","Negative","N/A","N/A","None","",0,235
+"7/6/16","MCNE","EHT","c18.9","colon","Y","pending","pending","pending","pending-I","",0,192
+"7/6/16","MCE","EHT","c50.919","breast","Y","pending","pending","pending","pending-I","",0,74
+"7/7/16","MCNE","EHT","z80.3","fhx breast","Y","Positive","MUTYH","c.1187G>A","MUTYH, MRI","",1128.27,177
+"7/7/16","MCNE","EHT","z80.0","fhx GI","Y","pending","pending","pending","pending-A","",0,400
+"7/7/16","MCE","JKP","c50.919","breast","Y","Positive","BRCA2","c.1054dupT","BRCA","",2245.77,141
+"7/8/16","SJE","EAR","c50.919","breast","Y","Negative","N/A","N/A","None","",0,405
+"7/11/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,363
+"7/12/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,142
+"7/12/16","MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-A","",0,521
+"7/12/16","MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-A","",0,122
+"7/13/16","SJE","EAR","c18.9","colon","Y","VUS","MSH6","c.3079G>C","None","",0,395
+"7/14/16","SJE","EAR","c50.919","breast","Y","VUS/VUS","ATM/BRIP1","c.3689A>G/c.139C>G","None","",0,459
+"7/14/16","SJE","EAR","z85.3","breast","Y","pending","pending","pending","pending-I","",0,146
+"7/14/16","MCE","JKP","c18.9","colon","Y","Negative","N/A","N/A","Lynch","",3771.44,446
+"7/19/16","SJE","EAR","z80.3","fhx breast","Y","Negative","N/A","N/A","MRI","",778.27,510
+"7/19/16","MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-A","",0,243
+"7/20/16","SJL","EAR","c50.919","breast","Y","pending","pending","pending","pending-A","",0,378
+"7/21/16","SJE","EAR","c25.9","pancreas","Y","VUS","RECQL4","c.1652C>T","None","",0,315
+"7/21/16","SJE","EAR","c18.9","colon","Y","pending","pending","pending","pending-A","",0,483
+"7/25/16","SJE","EAR","c50.919","breast","Y","pending","pending","pending","pending-I","",0,506
+"7/26/16","SJE","EAR","z80.41","fhx ovary","Y","pending","pending","pending","pending-F","",0,92
+"7/26/16","SJE","EAR","z85.3","breast","Y","pending","pending","pending","pending-F","",0,385
+"7/26/16","MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-A","",0,169
+"7/27/16","SJE","EAR","c18.9","colon","Y","pending","pending","pending","pending-F","",0,421
+"7/27/16","SJE","EAR","c50.919","breast","Y","pending","pending","pending","pending-F","",0,419
+"7/27/16","MCE","JKP","z80.3","fhx breast","Y","Negative","N/A","N/A","None","",0,149
+"7/27/16","MCE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-F","",0,166
+"7/28/16","SJE","EAR","c56.9","ovary","Y","pending","pending","pending","pending","",0,230
+"7/28/16","SJE","EAR","c50.919","breast","Y","pending","pending","pending","pending-F","",0,283
+"7/28/16","MCE","JKP","c50.919","breast","Y","pending","pending","pending","pending-F","",0,80
+"7/28/16","SJE","JKP","z80.3","fhx breast","Y","pending","pending","pending","pending-F","",0,262
+"7/28/16","MCE","JKP","z80.41","fhx ovary","Y","pending","pending","pending","pending-F","",0,374

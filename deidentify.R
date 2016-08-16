@@ -1,7 +1,7 @@
 
 ### Read in excel sheet and deidentify patients
 library(xlsx)
-Identified_Data <- read.xlsx("patient database (1).xlsx", header=T, sheetIndex = 1)
+Identified_Data <- read.csv("patient database.csv", header=T, stringsAsFactors = FALSE)
 Identified_Data$PatID <- as.integer(unclass(factor(Identified_Data$Patient)))
 
 Working_Data <- data.frame(Identified_Data[,2:14])
